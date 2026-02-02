@@ -4,7 +4,7 @@
     "samples": [
    
   {
-        "name": "30/01/2026",
+        "name": "02/02/2026 (Actualizado canales Ace Serve)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/",
         "kid": "",
         "key": "",
@@ -14450,14 +14450,30 @@
     "name": "🧿 ENTRETENIMIENTO",
     "samples": [
   {
-    "name": "24 HORAS HD 6cca * NE",
+    "name": "24 HORAS HD 6cca * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=cc5ed178702605513cd18b4899c4be954d306cca",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
+    {
+    "name": "24 HORAS HD c715 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=16598735f228c6dff542125d0e308150b50fc715",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+ {
+    "name": "LA 1 FHD 740c * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=dad5e0e0825cb3e410008f1c4252387b868e740c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
     "name": "LA 1 4K 73d0 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=6a54f8fb00406c88f68ac3f3aabc7d084f9573d0",
     "kid": "",
@@ -14465,7 +14481,7 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
+   {
     "name": "LA 1 FHD 40ba * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=7597d4feb3195079ffa606cf23a183d626ee40ba",
     "kid": "",
@@ -14490,24 +14506,16 @@
     "extension": ""
   },
   {
-    "name": "CUATRO FHD 0333 * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333",
+    "name": "CUATRO FHD 2c00 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=72fe18250142433fe1d921fd76d99f3f1d2e2c00",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
-    "name": "TELECINCO FHD 9ca7 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=3e7b1911a1f83fd869b6995650a3057778259ca7",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "TELECINCO FHD f7bf * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf",
+   {
+    "name": "CUATRO FHD 4ef0 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -14522,6 +14530,30 @@
     "extension": ""
   },
   {
+    "name": "TELECINCO FHD f7bf * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "TELECINCO FHD 9ca7 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3e7b1911a1f83fd869b6995650a3057778259ca7",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+ {
+    "name": "LA SEXTA HD ba3b * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=bd38dba903a3d627fb053c9d907b1635a52fba3b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
     "name": "LA SEXTA FHD 457f * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f",
     "kid": "",
@@ -14530,8 +14562,40 @@
     "extension": ""
   },
   {
-    "name": "BeMaD FHD 1f60 * NE",
+    "name": "BEMAD FHD 1f60 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=6e1b5fd8753352486aa932f802534a17556e1f60",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "TEN FHD 4abc * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=19cab799c86251ae8ae5f4b4faace9b78d784abc",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "TELEDEPORTE HD e5ae * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "TELEDEPORTE FHD ee05 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "TELEDEPORTE FHD 74f6 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -14569,9 +14633,9 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
-    "name": "ESPORT 3 FHD 7425 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425",
+   {
+    "name": "GOL PLAY FHD 4f93 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=73094658f0a3ed523c0e188de67a7a690c0d4f93",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -14580,6 +14644,14 @@
   {
     "name": "ESPORT 3 FHD 5d64 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=181fcc443b953d54b00a1bf6320ccbb097e85d64",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "REAL MADRID HD 891e * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -14602,6 +14674,38 @@
     "extension": ""
   },
   {
+    "name": "M+ ACCION FHD d39f * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fbf4ebe0dcd9d92d522fad129be22df4924ad39f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ ACCION FHD 6858 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=91f31550bcfcab2e3e1cb8d0af75777b862f6858",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ ACCION FHD 003d * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=22e098168add080c8b75a68cb229999a55a5003d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ ACCION FHD 5cd0 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=48753fd6987d721df0138b1f70e4dae530d35cd0",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+    {
     "name": "M+ ACCION FHD 59ce * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce",
     "kid": "",
@@ -14609,7 +14713,7 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
+    {
     "name": "M+ ACCION FHD 6f96 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=089673779de9fa7a18ac8dc26eb4a79cf5a86f96",
     "kid": "",
@@ -14658,6 +14762,14 @@
     "extension": ""
   },
   {
+    "name": "M+ ESTRENOS FHD 5460 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=49d66212748c67bd896fba703585997c6cae5460",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
     "name": "M+ ESTRENOS FHD 51e7 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=192f2ac5b372dfddef694e48edd2d56e308b51e7",
     "kid": "",
@@ -14794,6 +14906,14 @@
     "extension": ""
   },
   {
+    "name": "ONETORO FHD 1079 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=cd0188292b6b3876ff66c99bd3d25eab88b41079",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
     "name": "TOROLE TV FHD 3b0c * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=56457cde219abe22cdc3f6c2083a37b0324b3b0c",
     "kid": "",
@@ -14839,7 +14959,7 @@
     "extension": ""
   },
   {
-    "name": "M+ LALIGA SD ac58 * EC",
+    "name": "M+ LALIGA HD ac58 * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58",
     "kid": "",
     "key": "",
@@ -14855,8 +14975,8 @@
     "extension": ""
   },
   {
-    "name": "M+ LALIGA FHD f33y * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y",
+    "name": "M+ LALIGA FHD 5bd6 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=af458073c3096293a4dea9f369d4f308e7125bd6",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -14911,6 +15031,14 @@
     "extension": ""
   },
   {
+    "name": "M+ LALIGA 2 FHD 1176 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=caa631e8850e3eb5e7c039063dd8a339ccef1176",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
     "name": "M+ LALIGA 2 FHD 541d * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d",
     "kid": "",
@@ -14935,7 +15063,7 @@
     "extension": ""
   },
   {
-    "name": "M+ LALIGA 3 SD bd39 * EC",
+    "name": "M+ LALIGA 3 HD bd39 * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=382b14499e3d76e557d449d2e5bbc4e4bd63bd39",
     "kid": "",
     "key": "",
@@ -14945,6 +15073,14 @@
   {
     "name": "M+ LALIGA 3 d814 --> PL",
     "uri": "http://127.0.0.1:6878/ace/getstream?infohash=b24546262982de27283bb378307bb427509ed814",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ LALIGA 3 HD 028d * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c9afaf4965ad627ea6983fec9f63e0c1e857028d",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -14991,6 +15127,14 @@
     "extension": ""
   },
   {
+    "name": "DAZN LA LIGA 1 FHD ef3b * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
     "name": "DAZN LA LIGA 1 FHD 0b05 * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
     "kid": "",
@@ -14999,15 +15143,15 @@
     "extension": ""
   },
   {
-    "name": "DAZN LA LIGA 1 FHD c618 * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618",
+    "name": "DAZN LA LIGA 1 FHD fb18 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4955867fad3bc92e5b4c36045699fc277800fb18",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
-    "name": "DAZN LA LIGA 1 SD ed1f * EC",
+   {
+    "name": "DAZN LA LIGA 1 HD ed1f * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f",
     "kid": "",
     "key": "",
@@ -15023,6 +15167,22 @@
     "extension": ""
   },
   {
+    "name": "DAZN LA LIGA 1 29e8 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=19f28f60c908f987b1a03da078e63320d7bf29e8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN LA LIGA 1 FHD 74ae * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
     "name": "DAZN LA LIGA 1 FHD f4b1 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1",
     "kid": "",
@@ -15030,7 +15190,7 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
+   {
     "name": "DAZN LA LIGA 1 FHD 2884 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884",
     "kid": "",
@@ -15047,7 +15207,7 @@
     "extension": ""
   },
   {
-    "name": "DAZN LA LIGA 2 SD 8d36 * EC",
+    "name": "DAZN LA LIGA 2 HD 8d36 * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36",
     "kid": "",
     "key": "",
@@ -15055,6 +15215,14 @@
     "extension": ""
   },
   {
+    "name": "DAZN LA LIGA 2 FHD fee3 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
     "name": "DAZN LA LIGA 2 FHD 59c3 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3",
     "kid": "",
@@ -15063,6 +15231,22 @@
     "extension": ""
   },
   {
+    "name": "COPA DEL REY ee88 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4b9f813f30b4345fe555f9e218d828d76cd6ee88",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+    {
+    "name": "COPA DEL REY f04a * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=63ad519ec9602ea12f7867cf15914b2537bbf04a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+    {
     "name": "COPA DEL REY FHD 5afd * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=28205d7c9776b96a1f479c9082e80bd1e18f5afd",
     "kid": "",
@@ -15084,7 +15268,7 @@
     "extension": ""
   },
   {
-    "name": "HYPERMOTION SD c8cd * EC",
+    "name": "HYPERMOTION HD c8cd * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd",
     "kid": "",
     "key": "",
@@ -15124,8 +15308,8 @@
     "extension": ""
   },
   {
-    "name": "HYPERMOTION 3 724e * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=778d2f60bb7207addedcca0b9aed98f41529724e",
+    "name": "HYPERMOTION 3 2f1f * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1fdb405a6942da0941266f24cdd1c71b11552f1f",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -15161,16 +15345,16 @@
     "extension": ""
   },
   {
-    "name": "LIGA DE CAMPEONES FHD 415f * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f",
+    "name": "LIGA DE CAMPEONES HD 415f * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=43249349740032bee068b5bbff7b078f642812db",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "LIGA DE CAMPEONES FHD 406e * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e",
+    "name": "LIGA DE CAMPEONES HD 406e * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -15257,6 +15441,14 @@
     "extension": ""
   },
   {
+    "name": "LIGA DE CAMPEONES 2 FHD 415f * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
     "name": "LIGA DE CAMPEONES 2 FHD 29c5 * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5",
     "kid": "",
@@ -15264,8 +15456,16 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
-    "name": "LIGA DE CAMPEONES 2 SD 4d5e * EC",
+   {
+    "name": "LIGA DE CAMPEONES 2 FHD d615 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=bb26037a253866d341778181eff5c8637240d615",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "LIGA DE CAMPEONES 2 HD 4d5e * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e",
     "kid": "",
     "key": "",
@@ -15281,6 +15481,30 @@
     "extension": ""
   },
   {
+    "name": "LIGA DE CAMPEONES 2 FHD fccb * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 2 FHD 355c * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=498c56bd00f535e440c392de5af992421a31355c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 2 FHD c49f * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
     "name": "LIGA DE CAMPEONES 2 FHD a188 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=4b18a3b32df5960ed950fa907f8d509b1ad2a188",
     "kid": "",
@@ -15288,7 +15512,7 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
+   {
     "name": "LIGA DE CAMPEONES 2 FHD ae54 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=ea03cc51980996ba6f2da49e30eee1de8a66ae54",
     "kid": "",
@@ -15296,7 +15520,7 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
+   {
     "name": "LIGA DE CAMPEONES 2 FHD 2a30 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30",
     "kid": "",
@@ -15313,6 +15537,22 @@
     "extension": ""
   },
   {
+    "name": "LIGA DE CAMPEONES 3 FHD 406e * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 3 FHD 8de8 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
     "name": "LIGA DE CAMPEONES 3 FHD 2bc7 * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7",
     "kid": "",
@@ -15321,7 +15561,7 @@
     "extension": ""
   },
   {
-    "name": "LIGA DE CAMPEONES 3 SD d0f9 * EC",
+    "name": "LIGA DE CAMPEONES 3 HD 2bc7 * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9",
     "kid": "",
     "key": "",
@@ -15337,6 +15577,22 @@
     "extension": ""
   },
   {
+    "name": "LIGA DE CAMPEONES 3 FHD 484d * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 3 FHD a6d8 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+    {
     "name": "LIGA DE CAMPEONES 3 FHD 1259 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259",
     "kid": "",
@@ -15360,6 +15616,22 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
+    {
+    "name": "LIGA DE CAMPEONES 4 FHD 7547 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=64f01629d4a19e70efd9e6778c397282ba087547",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 4 HD 11f2 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
   {
     "name": "LIGA DE CAMPEONES 4 b005 --> PL",
     "uri": "http://127.0.0.1:6878/ace/getstream?infohash=2550ea6d32d3384dcc8ac149c711bceb70d4b005",
@@ -15369,8 +15641,152 @@
     "extension": ""
   },
   {
+    "name": "LIGA DE CAMPEONES 4 FHD ec29 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "LIGA DE CAMPEONES 4 FHD 128f * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
     "name": "LIGA DE CAMPEONES 5 FHD b97d * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 5 FHD a2aa * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5bed693c6a22de55f1061c509bba5e3aeb2ea2aa",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+    {
+    "name": "LIGA DE CAMPEONES 5 FHD c2c5 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+    {
+    "name": "LIGA DE CAMPEONES 6 FHD d031 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a3e8b1eac4866685ed52eb448b0891d0cb0ed031",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "LIGA DE CAMPEONES 6 FHD 68a0 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=14bedc2ff054ae16c0fae99cfeb9dcda21ac68a0",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "LIGA DE CAMPEONES 6 HD 9112 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=54e971e70ed1e79a073a3aae410aed7818799112",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "LIGA DE CAMPEONES 6 HD 2f25 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=bf10192dc72a98ee835a1b7ccac8b27737d02f25",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+    {
+    "name": "LIGA DE CAMPEONES 6 FHD 6444 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=976983697790ab8a07b764b08843529d38bc6444",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "LIGA DE CAMPEONES 7 FHD b842 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=83c02982581a536d1321e38a77dc0c520b1cb842",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 8 FHD 56c9 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+    {
+    "name": "LIGA DE CAMPEONES 10 FHD 2cb1 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0103373118989085dd0d02667c629ee36d462cb1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 11 FHD f8fa * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6e12a5849a4edea248ed9c8689e58bd66fc9f8fa",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 12 FHD 1cb7 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=130d37f9a68bd8f29f0d636dcde522a1e91d1cb7",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+    {
+    "name": "LIGA DE CAMPEONES 14 SD 53cf * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=773ef9e2d2feb4f80ef558b253c72fda8d8e53cf",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 15 SD ca6d * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=47ce8fe15adfcf4e1749b0c0dee1fc79a3d5ca6d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 16 SD b9da * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=348cc65d5cbd5a77da0fe006ce97eff6ad72b9da",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 17 SD e27c * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a15a132ffe7867a2b61b49617df39a8309cce27c",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -15390,16 +15806,16 @@
     "extension": ""
   },
   {
-    "name": "M+ PLUS FHD 0f70 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70",
+    "name": "M+ PLUS FHD 933b * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "M+ PLUS FHD 933b * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b",
+    "name": "M+ PLUS FHD 0f70 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -15443,7 +15859,7 @@
     "extension": ""
   },
   {
-    "name": "M+ DEPORTES SD 93aa * EC",
+    "name": "M+ DEPORTES HD 93aa * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa",
     "kid": "",
     "key": "",
@@ -15467,16 +15883,16 @@
     "extension": ""
   },
   {
-    "name": "M+ DEPORTES FHD 355d * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d",
+    "name": "M+ DEPORTES FHD c7e5 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "M+ DEPORTES FHD c7e5 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5",
+    "name": "M+ DEPORTES FHD 355d * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -15515,7 +15931,15 @@
     "extension": ""
   },
   {
-    "name": "M+ DEPORTES 2 SD 6b25 * EC",
+    "name": "M+ DEPORTES 2 FHD 7c56 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=890901fa742b19d8808cf49f19db2d3016437c56",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "M+ DEPORTES 2 HD 6b25 * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
     "kid": "",
     "key": "",
@@ -15531,6 +15955,14 @@
     "extension": ""
   },
   {
+    "name": "M+ DEPORTES 2 FHD 298c * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
     "name": "M+ DEPORTES 2 FHD 25a3 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3",
     "kid": "",
@@ -15538,7 +15970,7 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
+    {
     "name": "M+ DEPORTES 2 FHD 5a61 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61",
     "kid": "",
@@ -15563,7 +15995,7 @@
     "extension": ""
   },
   {
-    "name": "M+ DEPORTES 3 SD d534 * EC",
+    "name": "M+ DEPORTES 3 HD d534 * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534",
     "kid": "",
     "key": "",
@@ -15595,8 +16027,8 @@
     "extension": ""
   },
   {
-    "name": "M+ DEPORTES 4 FHD 2a96 * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96",
+    "name": "M+ DEPORTES 4 FHD 339f * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -15683,24 +16115,16 @@
     "extension": ""
   },
   {
-    "name": "M+ VAMOS FHD c40b * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b",
+    "name": "M+ VAMOS FHD a9cf * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "M+ VAMOS SD b785 * EC",
+    "name": "M+ VAMOS HD b785 * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ VAMOS FHD a933 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -15723,6 +16147,14 @@
     "extension": ""
   },
   {
+    "name": "M+ VAMOS FHD a933 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
     "name": "M+ VAMOS FHD 4dde * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde",
     "kid": "",
@@ -15731,6 +16163,22 @@
     "extension": ""
   },
   {
+    "name": "M+ VAMOS 2 FHD 307c * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ VAMOS 2 HD 89dd * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4ee16a7f854219fa2974ef1468e6b2f8574189dd",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
     "name": "M+ VAMOS 2 FHD e09c * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c",
     "kid": "",
@@ -15738,7 +16186,7 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
+   {
     "name": "M+ VAMOS 2 FHD 7003 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003",
     "kid": "",
@@ -15747,6 +16195,22 @@
     "extension": ""
   },
   {
+    "name": "M+ ELLAS FHD 74c8 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3040cfbef2d8170ff3909db6f21a6981d9ec74c8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ ELLAS FHD 5e97 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b2ee974d9cd40f2f251656cf5cb9a7a93ed05e97",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
     "name": "M+ ELLAS FHD 5cdd * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd",
     "kid": "",
@@ -15754,7 +16218,7 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
+   {
     "name": "M+ ELLAS FHD c285 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=594b59d435527327c9b6965f247995b907bfc285",
     "kid": "",
@@ -15816,24 +16280,16 @@
     "name": "🧿 EUROSPORT",
     "samples": [
   {
-    "name": "EUROSPORT 1 FHD 4d0e * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e",
+    "name": "EUROSPORT 1 FHD 92ea * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0db68ab752b50e6bb257eef22d102c1d29cd92ea",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "EUROSPORT 1 SD e78a * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "EUROSPORT 1 FHD f909 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909",
+    "name": "EUROSPORT 1 HD 658c * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a7b42f9d65636d1b1d9316d3e91ebe12b192658c",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -15848,6 +16304,14 @@
     "extension": ""
   },
   {
+    "name": "EUROSPORT 1 FHD f909 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
     "name": "EUROSPORT 1 FHD 126a * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a",
     "kid": "",
@@ -15855,25 +16319,25 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
-    "name": "EUROSPORT 1 HD 24e3 * NL",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3",
+ {
+    "name": "EUROSPORT 2 FHD cfba * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=24f940fef7e270b6b3ae5d9dc713a80c8345cfba",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "EUROSPORT 2 FHD 1551 * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "EUROSPORT 2 SD a53f * EC",
+    "name": "EUROSPORT 2 HD a53f * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "EUROSPORT 2 FHD 1ecc * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -15887,7 +16351,7 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
+   {
     "name": "EUROSPORT 2 FHD f8bf * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf",
     "kid": "",
@@ -15925,6 +16389,22 @@
     "name": "🧿 PRIMERA RFEF",
     "samples": [
   {
+    "name": "PRIMERA FEDERACIÓN FHD cc7f * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "PRIMERA FEDERACIÓN FHD c351 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=854ff9c607101791346111cd2366a392c3b8c351",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
     "name": "PRIMERA FEDERACIÓN FHD 31d9 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
     "kid": "",
@@ -15933,6 +16413,14 @@
     "extension": ""
   },
   {
+    "name": "PRIMERA FEDERACIÓN FHD 0476 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
     "name": "PRIMERA FEDERACIÓN FHD 3a57 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=b40212c43e96e97542ea00f2129212a054853a57",
     "kid": "",
@@ -15994,7 +16482,15 @@
     "extension": ""
   },
   {
-    "name": "DAZN F1 SD 1727 * EC",
+    "name": "DAZN F1 HD e8ba * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=88d7cdd80be237ae21314f7f1b6582991498e8ba",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 HD 1727 * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727",
     "kid": "",
     "key": "",
@@ -16042,14 +16538,6 @@
     "extension": ""
   },
   {
-    "name": "DAZN F1 SD 4aee * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
     "name": "DAZN F1 FHD aebd * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd",
     "kid": "",
@@ -16072,6 +16560,14 @@
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
+  },
+  {
+    "name": "DAZN F1 FHD 4aee * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
   }
 ] 
 }, 
@@ -16087,15 +16583,15 @@
     "extension": ""
   },
   {
-    "name": "DAZN 1 d276 * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276",
+    "name": "DAZN 1 FHD 8e62 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9afc89481b721ce6c326c85e47148676077b8e62",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "DAZN 1 e784 * EC",
+    "name": "DAZN 1 FHD e784 * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784",
     "kid": "",
     "key": "",
@@ -16127,14 +16623,6 @@
     "extension": ""
   },
   {
-    "name": "DAZN 1 HD 8ec7 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
     "name": "DAZN 1 FHD f025 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025",
     "kid": "",
@@ -16145,6 +16633,14 @@
   {
     "name": "DAZN 1 FHD 94b7 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 1 FHD 8ec7 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -16167,8 +16663,16 @@
     "extension": ""
   },
   {
-    "name": "DAZN 2 b8ab * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab",
+    "name": "DAZN 2 FHD b17f * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=f12038c7fe603ed93fa9475d60692dd95bb7b17f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "DAZN 2 FHD 2e9c * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=13a16a0630ae87bd97d6ba4165963c201c9a2e9c",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -16183,16 +16687,16 @@
     "extension": ""
   },
   {
-    "name": "DAZN 2 FHD 7a35 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35",
+    "name": "DAZN 2 FHD a97d * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "DAZN 2 FHD a97d * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d",
+    "name": "DAZN 2 FHD 7a35 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -16217,6 +16721,14 @@
   {
     "name": "DAZN 3 8df9 * STV",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 3 FHD f3e1 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e1ccce973c71547a8acda770885cb1c30a9cf3e1",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -16257,6 +16769,14 @@
   {
     "name": "DAZN 4 a3b8 * STV",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "DAZN 4 FHD 734c * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9ced16b2055c99bf89c26e678e315e1b01d3734c",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -16340,6 +16860,30 @@
     "name": "🧿 DAZN BALONCESTO",
     "samples": [
   {
+    "name": "DAZN BALONCESTO FHD 0d75 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "DAZN BALONCESTO FHD 1b82 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7af3d01607359fd1777de3d34d8d505ee5591b82",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN BALONCESTO FHD 8f98 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=217e5f172d4c704c5eec739fed672a53521e8f98",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
     "name": "DAZN BALONCESTO FHD fd7f * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f",
     "kid": "",
@@ -16348,8 +16892,24 @@
     "extension": ""
   },
   {
+    "name": "DAZN BALONCESTO 2 FHD 51cd * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=22b702984a0db43fd371c30e2df150b2336551cd",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
     "name": "DAZN BALONCESTO 2 FHD fb8d * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=965b249321adbf3a1459f94c17f624022889fb8d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN BALONCESTO 3 FHD 00d9 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=02ec118ee4586d96df9115ffc486be9a499d00d9",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
