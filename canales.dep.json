@@ -26546,7 +26546,420 @@
     "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20028/index.m3u8"
    } 
   ]
- }, 
+ },
+  {
+    "name": "🎵 Stingray",
+    "samples": [
+ {
+    "name": "Stingray Karaoke",
+    "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4591",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Qello Concerts by Stingray",
+    "uri": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Classic Rock",
+    "uri": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Classica",
+    "uri": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray CMusic",
+    "uri": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray DJAZZ",
+    "uri": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Easy Listening",
+    "uri": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Flashback 70s",
+    "uri": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Hit List",
+    "uri": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Holiday Hits",
+    "uri": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Hot Country",
+    "uri": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Karaoke",
+    "uri": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Nothin' But 90s",
+    "uri": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Pop Adult",
+    "uri": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Remember the 80s",
+    "uri": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Rock Alternative",
+    "uri": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Romance Latino",
+    "uri": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Smooth Jazz",
+    "uri": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Soul Storm",
+    "uri": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray The Spa",
+    "uri": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Today's KPOP",
+    "uri": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Today's Latin Pop",
+    "uri": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Stingray Urban Beat",
+    "uri": "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Radio Iglesias",
+    "uri": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Radio 51",
+    "uri": "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "70-80 TV [it]",
+    "uri": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Activa TV (720p)",
+    "uri": "https://streamtv.mediasector.es/hls/activatv/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "POP World TV (720p)",
+    "uri": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Sol Música (720p)",
+    "uri": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "STZ Telebista (1080p)",
+    "uri": "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "XPTV1 (720p)",
+    "uri": "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Retro_Music_Television",
+    "uri": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Euro Indie Music Chart",
+    "uri": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Noroeste TV HD",
+    "uri": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "NORTEvisión HD",
+    "uri": "http://amaru.dyndns.org:8870/0.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Happy Radio TV",
+    "uri": "https://tv.mediacp.eu:8081/happyradio/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Factoria TV HD",
+    "uri": "https://eu1.servers10.com:8081/8010/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Trace Urban HD",
+    "uri": "https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ocko Star",
+    "uri": "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Kronehit TV",
+    "uri": "http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Afrobeats",
+    "uri": "https://stream.ecable.tv/afrobeats/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Reload Radio Music Power HD",
+    "uri": "http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "TVM3",
+    "uri": "https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "V2 Beat HD",
+    "uri": "https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "V2BEAT",
+    "uri": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "7X MUSIC",
+    "uri": "https://stream.e2is.in/hls/7xMusic.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Fresh HD AM",
+    "uri": "https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Kiss Kiss TV HD",
+    "uri": "https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Kiss Kiss Italia HD",
+    "uri": "https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Kiss Kiss Napoli HD",
+    "uri": "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Vuemme TV",
+    "uri": "http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  }
+]
+}, 
 {
     "name": "🔞 Adultos",
     "samples": [
