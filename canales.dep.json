@@ -4,7 +4,7 @@
     "samples": [
    
   {
-        "name": "02/02/2026 (Actualizado canales Ace Serve)",
+        "name": "03/02/2026",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/",
         "kid": "",
         "key": "",
@@ -23764,9 +23764,622 @@
         "extension": "mpd"
       }
    ]
- }, 
-{
+ },
+  {
     "name": "🇪🇸 Movistar - M3U8",
+    "samples": [
+  {
+    "name": "M+ LaLiga HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31853/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ LaLiga HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6073/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ LaLiga 2 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31854/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ LaLiga 3 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31858/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ LaLiga 4 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31822/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LaLiga TV Hypermotion HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31823/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LaLiga TV Hypermotion 2 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31859/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LaLiga TV Hypermotion 3 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31865/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Liga de Campeones HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31842/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Liga de Campeones HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6074/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Liga de Campeones 2 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31860/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Liga de Campeones 3 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31820/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Liga de Campeones 4 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31864/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Liga de Campeones 5 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31821/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Deportes HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31830/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Deportes HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6070/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Deportes 2 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31835/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Deportes 3 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31849/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Deportes 4 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31850/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Deportes 5 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31851/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Deportes 6 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31874/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Vamos HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31867/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Ellas#V HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31875/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Golf HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31844/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Golf HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6075/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Golf 2 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31878/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Eurosport 1 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31845/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Eurosport 2 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31848/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN LaLiga HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31856/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN LaLiga 2 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31855/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31834/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6071/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 1 Bar HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31831/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 2 Bar HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31832/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 3 Bar HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31861/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 4 Bar HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31862/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Real Madrid TV FHD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31847/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Teledeporte HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31857/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Gol HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31863/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Acción",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7065/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Acción HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31868/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Comedia",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7066/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Comedia HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31869/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Drama",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7067/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Drama HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31866/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Estrenos HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31872/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Estrenos",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6078/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Cine Español HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31870/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Navidad HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31884/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Calle 13 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31836/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Warner TV HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31873/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "AXN HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31877/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "SYFY HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31880/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "TCM HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31883/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Nick Jr HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31852/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Nickelodeon HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31846/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Disney Junior HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31840/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Boing HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31839/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Baby TV HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31838/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Atreseries HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31882/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Be Mad HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31819/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Energy HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31879/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cosmo HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31871/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Comedy Central HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31843/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Nova HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31837/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Trece HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31885/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ubeat HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31876/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "MTV HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31841/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La 1 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31826/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La 1 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31824/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "24 Horas HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31818/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Antena 3 HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31825/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cuatro HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31827/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Telecinco HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31828/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La Sexta HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31833/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Suspenso HD",
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31906/index.m3u8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  }
+]
+}, 
+{
+    "name": "🇪🇸 Movistar - M3U8 2",
     "samples": [
   {
     "name": "M+ LaLiga HD",
@@ -24378,774 +24991,161 @@
   }
 ]
 },
- {
-    "name": "🇪🇸 Movistar - M3U8 (Warp)",
-    "samples": [
-  {
-    "name": "M+ LaLiga HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31853/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ LaLiga HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6073/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ LaLiga 2 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31854/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ LaLiga 3 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31858/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ LaLiga 4 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31822/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "LaLiga TV Hypermotion HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31823/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "LaLiga TV Hypermotion 2 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31859/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "LaLiga TV Hypermotion 3 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31865/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Liga de Campeones HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31842/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Liga de Campeones HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6074/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Liga de Campeones 2 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31860/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Liga de Campeones 3 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31820/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Liga de Campeones 4 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31864/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Liga de Campeones 5 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31821/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Deportes HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31830/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Deportes HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6070/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Deportes 2 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31835/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Deportes 3 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31849/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Deportes 4 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31850/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Deportes 5 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31851/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Deportes 6 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31874/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Vamos HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31867/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Ellas#V HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31875/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Golf HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31844/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Golf HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6075/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Golf 2 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31878/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Eurosport 1 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31845/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Eurosport 2 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31848/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN LaLiga HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31856/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN LaLiga 2 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31855/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN F1 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31834/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN F1 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6071/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN 1 Bar HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31831/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN 2 Bar HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31832/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN 3 Bar HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31861/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN 4 Bar HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31862/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Real Madrid TV FHD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31847/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Teledeporte HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31857/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Gol HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31863/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Acción",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7065/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Acción HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31868/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Comedia",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7066/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Comedia HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31869/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Drama",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7067/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Drama HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31866/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Estrenos HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31872/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Estrenos",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6078/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Cine Español HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31870/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "M+ Navidad HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31884/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Calle 13 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31836/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Warner TV HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31873/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "AXN HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31877/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "SYFY HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31880/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "TCM HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31883/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Nick Jr HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31852/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Nickelodeon HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31846/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Disney Junior HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31840/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Boing HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31839/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Baby TV HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31838/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Atreseries HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31882/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Be Mad HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31819/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Energy HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31879/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Cosmo HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31871/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Comedy Central HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31843/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Nova HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31837/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Trece HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31885/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Ubeat HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31876/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "MTV HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31841/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "La 1 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31826/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "La 1 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31824/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "24 Horas HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31818/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Antena 3 HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31825/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Cuatro HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31827/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Telecinco HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31828/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "La Sexta HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31833/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Suspenso HD",
-    "uri": "http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/31906/index.m3u8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  }
-]
-}, 
    {
     "name": "🇩🇪 Alemania",
     "samples": [
    
     {
     "name": "Sky Sport Golf HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/5043/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/5043/index.m3u8"
   },
   {
     "name": "Sky Sport Premier League HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/5042/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/5042/index.m3u8"
   },
   {
     "name": "Sky Sport News HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2477/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2477/index.m3u8"
   },
   {
     "name": "Sky Sport F1 DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19027/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19027/index.m3u8"
   },
   {
     "name": "Sky Sport F1 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19022/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19022/index.m3u8"
   },
   {
     "name": "Sky Sport F1 FHD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/10079/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/10079/index.m3u8"
   },
   {
     "name": "Sky Sport Mix HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/5039/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/5039/index.m3u8"
   },
   {
     "name": "Sky Sport 1 FHD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2478/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2478/index.m3u8"
   },
   {
     "name": "Sky Sport 2 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2479/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2479/index.m3u8"
   },
   {
     "name": "Sky Sport Austria 1 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2492/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2492/index.m3u8"
   },
   {
     "name": "Sky Sport Austria 2 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6113/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6113/index.m3u8"
   },
   {
     "name": "Sky Sport UHD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19044/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19044/index.m3u8"
   },
   {
     "name": "Sky Sport 1 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19028/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19028/index.m3u8"
   },
   {
     "name": "Sky Sport 3 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19030/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19030/index.m3u8"
   },
   {
     "name": "Sky Sport 4 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19031/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19031/index.m3u8"
   },
   {
     "name": "Sky Sport 5 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19032/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19032/index.m3u8"
   },
   {
     "name": "Sky Sport 6 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19033/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19033/index.m3u8"
   },
   {
     "name": "Sky Sport 7 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19034/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19034/index.m3u8"
   },
   {
     "name": "Sky Sport 8 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19035/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19035/index.m3u8"
   },
   {
     "name": "Sky Sport 9 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19036/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19036/index.m3u8"
   },
   {
     "name": "Sky Sport 10 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19037/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19037/index.m3u8"
   },
   {
     "name": "Sky Sport Bundesliga 1 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2480/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2480/index.m3u8"
   },
   {
     "name": "Sky Sport Bundesliga 2 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7234/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7234/index.m3u8"
   },
   {
     "name": "Sky Sport Bundesliga 3 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7235/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7235/index.m3u8"
   },
   {
     "name": "Sky Sport Bundesliga 5 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7237/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7237/index.m3u8"
   },
   {
     "name": "Sky Sport Bundesliga 6 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7238/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7238/index.m3u8"
   },
   {
     "name": "Sky Sport Bundesliga 7 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7239/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7239/index.m3u8"
   },
   {
     "name": "Sky Sport Bundesliga 8 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7240/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7240/index.m3u8"
   },
   {
     "name": "Sky Sport Bundesliga 9 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7241/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7241/index.m3u8"
   },
   {
     "name": "Sky Sport Bundesliga 9 FHD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6097/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6097/index.m3u8"
   },
   {
     "name": "Sportdigital 1+ HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19023/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19023/index.m3u8"
   },
   {
     "name": "Sportdigital Fussball HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19026/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19026/index.m3u8"
   },
   {
     "name": "DAZN 1 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19042/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19042/index.m3u8"
   },
   {
     "name": "DAZN 2 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19043/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19043/index.m3u8"
   },
   {
     "name": "Sport 1 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2503/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2503/index.m3u8"
   },
   {
     "name": "Motorvision TV DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6112/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6112/index.m3u8"
   },
   {
     "name": "Eurosport 360 HD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19040/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19040/index.m3u8"
   },
   {
     "name": "Eurosport 1 FHD DE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/15179/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/15179/index.m3u8"
   }
  ]
 },
@@ -25155,35 +25155,35 @@
    
    {
     "name": "RMC Sport 1 HD FR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2545/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2545/index.m3u8"
   },
   {
     "name": "RMC Sport 2 HD FR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2546/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2546/index.m3u8"
   },
   {
     "name": "RMC Sport 3 HD FR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2547/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2547/index.m3u8"
   },
   {
     "name": "beIN Sports 1 HD FR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2499/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2499/index.m3u8"
   },
   {
     "name": "beIN Sports 2 HD FR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2500/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2500/index.m3u8"
   },
   {
     "name": "beIN Sports 3 HD FR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2501/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2501/index.m3u8"
   },
   {
     "name": "Canal+ Sport HD FR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2502/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2502/index.m3u8"
   },
   {
     "name": "Infosport+ HD FR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2544/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2544/index.m3u8"
   }
  ]
 }, 
@@ -25193,55 +25193,55 @@
    
    {
     "name": "Sky Sport F1 HD IT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19105/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19105/index.m3u8"
   },
   {
     "name": "Sky Sport 24 FHD IT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19107/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19107/index.m3u8"
   },
   {
     "name": "Sky Sport 24 HD IT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19127/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19127/index.m3u8"
   },
   {
     "name": "Sky Sport Calcio HD IT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19113/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19113/index.m3u8"
   },
   {
     "name": "Sky Sport Arena HD IT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19128/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19128/index.m3u8"
   },
   {
     "name": "Sky Sport Golf HD IT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19132/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19132/index.m3u8"
   },
   {
     "name": "Sky Sport MotoGP HD IT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19133/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19133/index.m3u8"
   },
   {
     "name": "Sportitalia Plus HD IT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19108/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19108/index.m3u8"
   },
   {
     "name": "Rai Sport HD IT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19106/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19106/index.m3u8"
   },
   {
     "name": "Eurosport 2 HD IT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19116/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19116/index.m3u8"
   },
   {
     "name": "Super Tennis IT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19136/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19136/index.m3u8"
   },
   {
     "name": "Super Tennis HD IT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19111/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19111/index.m3u8"
   },
   {
     "name": "Super Tennis FHD IT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6079/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6079/index.m3u8"
   }
  ]
 },
@@ -25251,143 +25251,143 @@
  
  {
     "name": "Sport TV+ HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31590/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31590/index.m3u8"
 },
   {
     "name": "Sport TV+ FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31941/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31941/index.m3u8"
  },
   {
     "name": "Sport TV 1 HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2525/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2525/index.m3u8"
  }, 
   {
     "name": "Sport TV 1 FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31942/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31942/index.m3u8"
 }, 
   {
     "name": "Sport TV 2 FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31943/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31943/index.m3u8"
   },
   {
     "name": "Sport TV 2 HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2526/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2526/index.m3u8"
   },
   {
     "name": "Sport TV 3 FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31944/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31944/index.m3u8"
   },
    {
     "name": "Sport TV 3 HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2527/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2527/index.m3u8"
   },
   {
     "name": "Sport TV 4 FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31945/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31945/index.m3u8"
   },
    {
     "name": "Sport TV 4 HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2528/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2528/index.m3u8"
   },
   {
     "name": "Sport TV 5 FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31946/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31946/index.m3u8"
   },
    {
     "name": "Sport TV 5 HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2529/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2529/index.m3u8"
   },
   {
     "name": "Sport TV 6 FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31947/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31947/index.m3u8"
   },
   {
     "name": "Sport TV 7 FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31948/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31948/index.m3u8"
   },
 {
     "name": "DAZN 1 PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31954/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31954/index.m3u8"
   },
    {
     "name": "DAZN 1 HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2531/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2531/index.m3u8"
   },
   {
     "name": "DAZN 1 FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19158/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19158/index.m3u8"
   },
 {
     "name": "DAZN 2 HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31955/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31955/index.m3u8"
   },
   {
     "name": "DAZN 2 FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2532/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2532/index.m3u8"
   },
   {
     "name": "DAZN 3 HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31956/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31956/index.m3u8"
   },
   {
     "name": "DAZN 3 FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7062/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7062/index.m3u8"
   },
   {
     "name": "DAZN 4 HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31957/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31957/index.m3u8"
   },
   {
     "name": "DAZN 5 HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31958/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31958/index.m3u8"
   },
   {
     "name": "DAZN 5 HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2535/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2535/index.m3u8"
   },
     {
     "name": "DAZN 5 FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2534/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2534/index.m3u8"
   },
   {
     "name": "DAZN 6 FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2536/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2536/index.m3u8"
   },
     {
     "name": "Eurosport 1 HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31949/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31949/index.m3u8"
   },
   {
     "name": "Eurosport 2 HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31950/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31950/index.m3u8"
   },
   {
     "name": "A Bola TV HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31951/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31951/index.m3u8"
   },
   {
     "name": "Benfica TV HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31952/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31952/index.m3u8"
   },
    {
     "name": "Benfica TV FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19160/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19160/index.m3u8"
   },
   {
     "name": "Sporting TV HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31953/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31953/index.m3u8"
   },
   {
     "name": "Sportnig TV FHD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2530/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2530/index.m3u8"
   },
     {
     "name": "Canal 11 HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31592/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31592/index.m3u8"
   },
   {
     "name": "FightBox HD PT",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31961/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31961/index.m3u8"
   }
  ]
 },
@@ -25397,115 +25397,115 @@
 
  {
     "name": "Sky Sports Tennis HD 50 UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6546/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6546/index.m3u8"
   },
   {
     "name": "Sky Sports Racing HD 50 UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9335/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/9335/index.m3u8"
   },
   {
     "name": "Sky Sports Racing HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7341/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7341/index.m3u8"
   },
   {
     "name": "Sky Sports Premier League HD 50 UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9334/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/9334/index.m3u8"
   },
   {
     "name": "Sky Sports Premier League HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7335/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7335/index.m3u8"
   },
   {
     "name": "Sky Sports Mix HD 50 UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9310/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/9310/index.m3u8"
   },
   {
     "name": "Sky Sports Mix HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7339/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7339/index.m3u8"
   },
   {
     "name": "Sky Sports Main Event HD 50 UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9308/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/9308/index.m3u8"
   },
   {
     "name": "Sky Sports Main Event HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7337/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7337/index.m3u8"
   },
   {
     "name": "Sky Sports Golf HD 50 UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9293/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/9293/index.m3u8"
   },
   {
     "name": "Sky Sports Golf HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7344/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7344/index.m3u8"
   },
   {
     "name": "Sky Sports Football HD 50 UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9289/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/9289/index.m3u8"
   },
   {
     "name": "Sky Sports Football HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7336/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7336/index.m3u8"
   },
   {
     "name": "Sky Sports F1 HD 50 UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9283/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/9283/index.m3u8"
   },
   {
     "name": "Sky Sports F1 HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7342/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7342/index.m3u8"
   },
   {
     "name": "Sky Sports Cricket HD 50 UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9258/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/9258/index.m3u8"
   },
   {
     "name": "Sky Sports Cricket HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7343/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7343/index.m3u8"
   },
   {
     "name": "Sky Sports Action HD 50 UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9155/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/9155/index.m3u8"
   },
   {
     "name": "Sky Sports Action HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7340/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7340/index.m3u8"
   },
   {
     "name": "Sky Sports+ HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9248/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/9248/index.m3u8"
   },
   {
     "name": "Premier Sports 1 HD 50 UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2160/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2160/index.m3u8"
   },
   {
     "name": "TNT Sports 1 HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6566/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6566/index.m3u8"
   },
   {
     "name": "TNT Sports 1 FHD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2505/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2505/index.m3u8"
   },
   {
     "name": "TNT Sports 2 HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2506/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2506/index.m3u8"
   },
   {
     "name": "TNT Sports 3 HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6564/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6564/index.m3u8"
   },
   {
     "name": "TNT Sports 4 HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19054/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19054/index.m3u8"
   },
   {
     "name": "Premier Sports 1 HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6555/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6555/index.m3u8"
   },
   {
     "name": "Eurosport 2 HD UK",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6556/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6556/index.m3u8"
   }
  ]
 }, 
@@ -25515,15 +25515,15 @@
    
     {
     "name": "Tring Sport 1 HD AL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31563/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31563/index.m3u8"
   },
   {
     "name": "Tring Sport 2 HD AL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31564/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31564/index.m3u8"
   },
   {
     "name": "Tring Sport 3 HD AL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31565/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31565/index.m3u8"
   }
  ]
 }, 
@@ -25533,27 +25533,27 @@
 
  {
     "name": "beIN Sports 1 HD QA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6123/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6123/index.m3u8"
   },
   {
     "name": "beIN Sports 3 HD QA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6124/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6124/index.m3u8"
   },
   {
     "name": "beIN Sports 4 HD QA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6125/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6125/index.m3u8"
   },
   {
     "name": "beIN Sports 5 HD QA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6126/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6126/index.m3u8"
   },
   {
     "name": "beIN Sports 6 HD QA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6127/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6127/index.m3u8"
   },
   {
     "name": "beIN Sports 7 HD QA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6128/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6128/index.m3u8"
   }
  ]
 },
@@ -25563,91 +25563,91 @@
 
  {
     "name": "Arena Sport 1 HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7329/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7329/index.m3u8"
   },
   {
     "name": "Arena Sport 1 FHD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7263/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7263/index.m3u8"
   },
   {
     "name": "Arena Sport 2 HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7330/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7330/index.m3u8"
   },
   {
     "name": "Arena Sport 2 FHD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7264/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7264/index.m3u8"
   },
   {
     "name": "Arena Sport 3 HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7331/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7331/index.m3u8"
   },
   {
     "name": "Arena Sport 3 FHD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7265/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7265/index.m3u8"
   },
   {
     "name": "Arena Sport 4 HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7332/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7332/index.m3u8"
   },
   {
     "name": "Arena Sport 4 FHD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7266/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7266/index.m3u8"
   },
   {
     "name": "Arena Sport 5 HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7333/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7333/index.m3u8"
   },
   {
     "name": "Arena Sport 5 FHD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7267/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7267/index.m3u8"
   },
   {
     "name": "Arena Sport 6 HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7334/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7334/index.m3u8"
   },
   {
     "name": "Arena Sport 6 FHD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7268/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7268/index.m3u8"
   },
   {
     "name": "Sport Klub 1 HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7269/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7269/index.m3u8"
   },
   {
     "name": "Sport Klub 2 HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7270/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7270/index.m3u8"
   },
   {
     "name": "Sport Klub 3 HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7271/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7271/index.m3u8"
   },
   {
     "name": "Sport Klub 4 HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7272/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7272/index.m3u8"
   },
   {
     "name": "Sport Klub 5 HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7273/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7273/index.m3u8"
   },
   {
     "name": "Sport Klub 6 HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7274/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7274/index.m3u8"
   },
   {
     "name": "Sport Klub 7 HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7275/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7275/index.m3u8"
   },
   {
     "name": "Sport Klub 8 HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7276/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7276/index.m3u8"
   },
   {
     "name": "Sport Klub Golf HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7277/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7277/index.m3u8"
   },
   {
     "name": "Sport Klub Fight HD HR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7278/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7278/index.m3u8"
   }
  ]
 },
@@ -25657,67 +25657,67 @@
 
 {
     "name": "Cytavision Sports 1 GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31572/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31572/index.m3u8"
   },
   {
     "name": "Cytavision Sports 2 GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31573/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31573/index.m3u8"
   },
   {
     "name": "Cytavision Sports 3 GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31574/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31574/index.m3u8"
   },
   {
     "name": "Cytavision Sports 5 GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31575/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31575/index.m3u8"
   },
   {
     "name": "Cytavision Sports 6 GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31576/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31576/index.m3u8"
   },
   {
     "name": "Cytavision Sports 7 GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31577/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31577/index.m3u8"
   },
   {
     "name": "Cosmote Sport 1 HD GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31578/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31578/index.m3u8"
   },
   {
     "name": "Cosmote Sport 2 HD GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31579/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31579/index.m3u8"
   },
   {
     "name": "Cosmote Sport 3 HD GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31581/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31581/index.m3u8"
   },
   {
     "name": "Cosmote Sport 4 HD GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31582/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31582/index.m3u8"
   },
   {
     "name": "Cosmote Sport 5 HD GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31583/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31583/index.m3u8"
   },
   {
     "name": "Cosmote Sport 6 HD GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31584/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31584/index.m3u8"
   },
   {
     "name": "Cosmote Sport 7 HD GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31585/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31585/index.m3u8"
   },
   {
     "name": "Cosmote Sport 8 HD GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31586/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31586/index.m3u8"
   },
   {
     "name": "Cosmote Sport 9 HD GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31587/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31587/index.m3u8"
   },
   {
     "name": "Cosmote Sport Highlights HD GR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31588/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31588/index.m3u8"
   }
  ]
 },
@@ -25727,31 +25727,31 @@
 
  {
     "name": "Ziggo Sport HD NL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2560/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2560/index.m3u8"
   },
   {
     "name": "Ziggo Sport 2 HD NL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2561/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2561/index.m3u8"
   },
   {
     "name": "Ziggo Sport 3 HD NL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2559/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2559/index.m3u8"
   },
   {
     "name": "ESPN 1 HD NL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19201/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19201/index.m3u8"
   },
   {
     "name": "ESPN 2 HD NL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19202/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19202/index.m3u8"
   },
   {
     "name": "ESPN 3 HD NL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19203/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19203/index.m3u8"
   },
   {
     "name": "ESPN 4 HD NL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19204/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19204/index.m3u8"
   }
  ]
 }, 
@@ -25761,75 +25761,75 @@
    
     {
     "name": "Eleven Sports 1 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2518/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2518/index.m3u8"
   },
   {
     "name": "Eleven Sports 2 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2517/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2517/index.m3u8"
   },
   {
     "name": "Polsat Sport 1 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7296/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7296/index.m3u8"
   },
   {
     "name": "Polsat Sport 2 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7310/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7310/index.m3u8"
   },
   {
     "name": "Polsat Sport 3 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7303/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7303/index.m3u8"
   },
   {
     "name": "Polsat Sport Premium 1 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7304/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7304/index.m3u8"
   },
   {
     "name": "Polsat Sport Premium 2 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7305/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7305/index.m3u8"
   },
   {
     "name": "Polsat Sport Extra 1 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7308/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7308/index.m3u8"
   },
   {
     "name": "Polsat Sport Extra 2 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7309/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7309/index.m3u8"
   },
   {
     "name": "Polsat Sport Extra 3 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7306/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7306/index.m3u8"
   },
   {
     "name": "Polsat Sport Extra 4 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7307/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7307/index.m3u8"
   },
   {
     "name": "Polsat Sport Fight HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7311/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7311/index.m3u8"
   },
   {
     "name": "Canal+ Sport HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6098/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6098/index.m3u8"
   },
   {
     "name": "Canal+ Sport 2 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6099/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6099/index.m3u8"
   },
   {
     "name": "Canal+ Sport 5 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2519/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2519/index.m3u8"
   },
   {
     "name": "TVP Sport HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2520/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2520/index.m3u8"
   },
   {
     "name": "Eurosport 1 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20058/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20058/index.m3u8"
   },
   {
     "name": "Eurosport 2 HD PL",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20066/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20066/index.m3u8"
   }
  ]
 }, 
@@ -25839,27 +25839,27 @@
 
  {
     "name": "Nova Sport 1 HD CZ",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2555/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2555/index.m3u8"
   },
   {
     "name": "Nova Sport 2 HD CZ",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2556/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2556/index.m3u8"
   },
   {
     "name": "Nova Sport 3 HD CZ",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31570/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31570/index.m3u8"
   },
   {
     "name": "Nova Sport 4 HD CZ",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31571/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31571/index.m3u8"
   },
   {
     "name": "ČT sport HD CZ",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2551/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2551/index.m3u8"
   },
   {
     "name": "Sport 2 HD CZ",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2557/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2557/index.m3u8"
   }
  ]
 },
@@ -25869,23 +25869,23 @@
 
  {
     "name": "DIGI Sport 1 HD RO",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2523/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2523/index.m3u8"
   },
   {
     "name": "DIGI Sport 2 HD RO",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2522/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2522/index.m3u8"
   },
   {
     "name": "DIGI Sport 3 HD RO",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2524/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2524/index.m3u8"
   },
   {
     "name": "DIGI Sport 4 HD RO",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2538/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2538/index.m3u8"
   },
   {
     "name": "Sport Extra HD RO",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31595/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31595/index.m3u8"
   }
  ]
 },
@@ -25895,63 +25895,63 @@
 
  {
     "name": "Arena Esport HD RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31597/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31597/index.m3u8"
   },
   {
     "name": "Arena Fight HD RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31598/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31598/index.m3u8"
   },
   {
     "name": "Arena Premium 1 HD RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31599/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31599/index.m3u8"
   },
   {
     "name": "Arena Premium 2 HD RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31600/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31600/index.m3u8"
   },
   {
     "name": "Arena Premium 3 HD RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31601/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31601/index.m3u8"
   },
   {
     "name": "Arena Sport 1 HD RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31602/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31602/index.m3u8"
   },
   {
     "name": "Arena Sport 3 HD RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31603/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31603/index.m3u8"
   },
   {
     "name": "Arena Premium 3 RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31604/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31604/index.m3u8"
   },
   {
     "name": "Arena Sport 4 HD RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31605/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31605/index.m3u8"
   },
   {
     "name": "Arena Sport 5 HD RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31606/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31606/index.m3u8"
   },
   {
     "name": "Arena Sport 6 HD RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31607/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31607/index.m3u8"
   },
   {
     "name": "Arena Sport 7 HD RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31608/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31608/index.m3u8"
   },
   {
     "name": "Arena Sport 8 HD RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31609/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31609/index.m3u8"
   },
   {
     "name": "Arena Sport 9 HD RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31610/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31610/index.m3u8"
   },
   {
     "name": "Arena Sport 1x2 HD RS",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31611/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31611/index.m3u8"
   }
  ]
 },
@@ -25961,59 +25961,59 @@
 
  {
     "name": "V Sport Football SE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/11110/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/11110/index.m3u8"
   },
   {
     "name": "V Sport Football HD SE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12032/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/12032/index.m3u8"
   },
   {
     "name": "V Sport Vinter SE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/11111/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/11111/index.m3u8"
   },
   {
     "name": "V Sport Vinter HD SE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12078/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/12078/index.m3u8"
   },
   {
     "name": "V Sport Motor HD SE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12033/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/12033/index.m3u8"
   },
   {
     "name": "V Sport Golf SE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12077/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/12077/index.m3u8"
   },
   {
     "name": "V Sport Ultra HD SE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19163/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19163/index.m3u8"
   },
   {
     "name": "V Sport Extra SE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12074/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/12074/index.m3u8"
   },
   {
     "name": "V Sport Premium SE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12079/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/12079/index.m3u8"
   },
   {
     "name": "TV4 Sportkanalen HD SE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12035/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/12035/index.m3u8"
   },
   {
     "name": "Eurosport 1 HD SE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12047/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/12047/index.m3u8"
   },
   {
     "name": "Eurosport 2 HD SE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12048/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/12048/index.m3u8"
   },
   {
     "name": "TV3 Sport SE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12100/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/12100/index.m3u8"
   },
   {
     "name": "ViaPlay Football SE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/5078/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/5078/index.m3u8"
   }
  ]
 }, 
@@ -26023,51 +26023,51 @@
    
    {
     "name": "beIN Sports Max 1 FHD TR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19062/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19062/index.m3u8"
   },
   {
     "name": "beIN Sports Max 2 HD TR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19066/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19066/index.m3u8"
   },
   {
     "name": "beIN Sports Max 2 FHD TR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19063/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19063/index.m3u8"
   },
   {
     "name": "beIN Sports Haber HD TR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19064/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19064/index.m3u8"
   },
   {
     "name": "TRT Spor TR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19067/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19067/index.m3u8"
   },
   {
     "name": "TRT Spor HD TR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19072/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19072/index.m3u8"
   },
   {
     "name": "TRT Spor FHD TR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19068/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19068/index.m3u8"
   },
   {
     "name": "A Spor HD TR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19069/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19069/index.m3u8"
   },
   {
     "name": "Spor Smart HD TR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20060/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20060/index.m3u8"
   },
   {
     "name": "Spor Smart 2 HD TR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19073/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19073/index.m3u8"
   },
   {
     "name": "Tivibu Spor 1 HD TR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19074/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19074/index.m3u8"
   },
   {
     "name": "Tivibu Spor 3 HD TR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19076/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19076/index.m3u8"
   }
  ]
 },
@@ -26077,51 +26077,51 @@
  
    {
     "name": "Fox Sports 1 HD US",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7322/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7322/index.m3u8"
   },
   {
     "name": "Fox Sports 2 HD US",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7323/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7323/index.m3u8"
   },
   {
     "name": "Fox Sports Racing US",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19144/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19144/index.m3u8"
   },
   {
     "name": "ESPNews US",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19154/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19154/index.m3u8"
   },
   {
     "name": "ESPN HD US",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19156/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19156/index.m3u8"
   },
   {
     "name": "ESPN 2 HD US",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19155/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19155/index.m3u8"
   },
   {
     "name": "Outdoor Channel HD US",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/119/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/119/index.m3u8"
   },
   {
     "name": "CBS Sports Network HD US",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7324/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7324/index.m3u8"
   },
   {
     "name": "NBC Sports Network HD US",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7327/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7327/index.m3u8"
   },
   {
     "name": "NHL Network HD US",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7328/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/7328/index.m3u8"
   },
   {
     "name": "FanDuel Sports North US",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19152/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19152/index.m3u8"
   },
   {
     "name": "FanDuel Sports Midwest US",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19153/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19153/index.m3u8"
   }
  ]
 }, 
@@ -26131,419 +26131,419 @@
 
 {
     "name": "Setanta Sports 1 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/271/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/271/index.m3u8"
   },
   {
     "name": "Setanta Sports 1 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6541/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6541/index.m3u8"
   },
   {
     "name": "Setanta Sports 2 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6542/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6542/index.m3u8"
   },
   {
     "name": "Setanta Sports 2 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/270/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/270/index.m3u8"
   },
   {
     "name": "Setanta Sports 1",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6543/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6543/index.m3u8"
   },
   {
     "name": "Setanta Sports 2",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6544/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/6544/index.m3u8"
   },
   {
     "name": "Setanta Sports UA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31754/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31754/index.m3u8"
   },
   {
     "name": "Setanta Sports HD UA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/15183/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/15183/index.m3u8"
   },
   {
     "name": "Setanta Sports HD UA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31755/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31755/index.m3u8"
   },
   {
     "name": "Setanta Sports FHD UA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/272/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/272/index.m3u8"
   },
   {
     "name": "Setanta Sports+ HD UA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/15184/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/15184/index.m3u8"
   },
   {
     "name": "Setanta Sports+ UA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31756/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31756/index.m3u8"
   },
   {
     "name": "Setanta Sports+ HD UA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31757/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31757/index.m3u8"
   },
   {
     "name": "Setanta Sports+ FHD UA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/5068/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/5068/index.m3u8"
   },
   {
     "name": "Setanta Sports 1 FHD KZ",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20065/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20065/index.m3u8"
   },
   {
     "name": "Setanta Moldova FHD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20074/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20074/index.m3u8"
   },
   {
     "name": "Setanta Baltic 1 FHD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/5069/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/5069/index.m3u8"
   },
   {
     "name": "Setanta Baltic 1 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20081/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20081/index.m3u8"
   },
   {
     "name": "Setanta Qazaqstan HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2399/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/2399/index.m3u8"
   }, 
 {
     "name": "Fox Sports HD AR",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19138/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19138/index.m3u8"
   },
   {
     "name": "Fox Sports HD MX",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19139/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19139/index.m3u8"
   },
   {
     "name": "Go3 Sport 1 HD EE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/18000/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/18000/index.m3u8"
   },
   {
     "name": "Go3 Sport 2 HD EE",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/18001/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/18001/index.m3u8"
   },
   {
     "name": "Go3 Sport 1 HD LV",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/18011/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/18011/index.m3u8"
   },
   {
     "name": "Go3 Sport 2 HD LV",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/18012/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/18012/index.m3u8"
   },
   {
     "name": "Best4Sport HD LV",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/18016/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/18016/index.m3u8"
   },
   {
     "name": "Best4Sport 2 HD LV",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/18015/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/18015/index.m3u8"
   },
   {
     "name": "Go3 Sport Open HD LV",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/18025/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/18025/index.m3u8"
   },
   {
     "name": "ViP Sport 1",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20099/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20099/index.m3u8"
   },
   {
     "name": "ViP Sport 2",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20103/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20103/index.m3u8"
   },
   {
     "name": "ViP Sport 3",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20104/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20104/index.m3u8"
   },
   {
     "name": "ViP Sport 4",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20105/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20105/index.m3u8"
   },
   {
     "name": "ViP Sport 5",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20106/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20106/index.m3u8"
   },
   {
     "name": "ViP Sport 6",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20107/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20107/index.m3u8"
   },
   {
     "name": "ViP Sport 7",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20108/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20108/index.m3u8"
   },
   {
     "name": "ViP Sport 8",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20109/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20109/index.m3u8"
   },
   {
     "name": "ViP Sport 9",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20110/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20110/index.m3u8"
   },
   {
     "name": "ViP Sport 10",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20100/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20100/index.m3u8"
   },
   {
     "name": "ViP Sport 11",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20101/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20101/index.m3u8"
   },
   {
     "name": "ViP Sport 12",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20102/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20102/index.m3u8"
   },
   {
     "name": "ViP Sport 13",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31674/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31674/index.m3u8"
   },
   {
     "name": "Vital Sport+",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20160/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20160/index.m3u8"
   },
   {
     "name": "Vital Sport 1",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31675/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31675/index.m3u8"
   },
   {
     "name": "Vital Sport 2",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31676/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31676/index.m3u8"
   },
   {
     "name": "Vital Sport 3",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31677/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31677/index.m3u8"
   },
   {
     "name": "Vital Sport 4",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31678/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31678/index.m3u8"
   },
   {
     "name": "Vital Sport 5",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31679/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31679/index.m3u8"
   },
   {
     "name": "Vital Sport 6",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31680/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31680/index.m3u8"
   },
   {
     "name": "BOX SportCast HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31650/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31650/index.m3u8"
   },
   {
     "name": "BOX SportCast Live 1 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20166/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20166/index.m3u8"
   },
   {
     "name": "BOX SportCast Live 2 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20167/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20167/index.m3u8"
   },
   {
     "name": "BOX SportCast Live 3 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20168/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20168/index.m3u8"
   },
   {
     "name": "BOX SportCast Live 4 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20169/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20169/index.m3u8"
   },
   {
     "name": "BOX SportCast Live 5 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20170/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20170/index.m3u8"
   },
   {
     "name": "BOX SportCast Live 6 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31648/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31648/index.m3u8"
   },
   {
     "name": "BOX SportCast Live 7 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31649/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31649/index.m3u8"
   },
   {
     "name": "Окко Event 1",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/14186/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/14186/index.m3u8"
   },
   {
     "name": "Окко Event 2",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/14187/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/14187/index.m3u8"
   },
   {
     "name": "Окко Event 3",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/14188/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/14188/index.m3u8"
   },
   {
     "name": "Окко Event 4",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/14189/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/14189/index.m3u8"
   },
   {
     "name": "Окко Event 5",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/14190/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/14190/index.m3u8"
   },
   {
     "name": "Окко Event 6",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/14191/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/14191/index.m3u8"
   },
   {
     "name": "Окко Event 7",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31450/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31450/index.m3u8"
   },
   {
     "name": "Окко Event 8",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31451/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31451/index.m3u8"
   },
   {
     "name": "Окко Event 9",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31452/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31452/index.m3u8"
   },
   {
     "name": "Окко Event 10",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31453/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31453/index.m3u8"
   },
   {
     "name": "Окко Event 11",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31454/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31454/index.m3u8"
   },
   {
     "name": "Окко Event 12",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31457/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31457/index.m3u8"
   },
   {
     "name": "Окко Event 13",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31458/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31458/index.m3u8"
   },
   {
     "name": "Окко Event 14",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31459/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31459/index.m3u8"
   },
   {
     "name": "Окко Event 15",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31463/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31463/index.m3u8"
   },
   {
     "name": "Окко Event 16",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31522/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31522/index.m3u8"
   },
   {
     "name": "Окко Event 17",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31523/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31523/index.m3u8"
   },
   {
     "name": "Окко Event 18",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31524/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31524/index.m3u8"
   },
   {
     "name": "Окко Event 19",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31525/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31525/index.m3u8"
   },
   {
     "name": "Окко Event 20",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31526/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31526/index.m3u8"
   },
   {
     "name": "Окко Event 21",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31527/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31527/index.m3u8"
   },
   {
     "name": "Окко Event 22",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31528/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31528/index.m3u8"
   },
   {
     "name": "Окко Event 23",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31529/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31529/index.m3u8"
   },
   {
     "name": "Окко Event 24",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31530/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31530/index.m3u8"
   },
   {
     "name": "Окко Event 25",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31531/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31531/index.m3u8"
   },
   {
     "name": "Окко Event 26",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31532/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31532/index.m3u8"
   },
   {
     "name": "Окко Event 27",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31533/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31533/index.m3u8"
   },
   {
     "name": "Окко Event 28",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31534/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31534/index.m3u8"
   },
   {
     "name": "Окко Event 29",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31535/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31535/index.m3u8"
   },
   {
     "name": "Окко Event 30",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31536/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31536/index.m3u8"
   },
   {
     "name": "Megogo Спорт HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31612/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31612/index.m3u8"
   },
   {
     "name": "Megogo Гонг HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31503/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31503/index.m3u8"
   },
   {
     "name": "Megogo Футбол 1 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31483/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31483/index.m3u8"
   },
   {
     "name": "Megogo Футбол 2 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31505/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31505/index.m3u8"
   },
   {
     "name": "Megogo Футбол 3 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31504/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31504/index.m3u8"
   },
   {
     "name": "Megogo Футбол 4 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31613/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31613/index.m3u8"
   },
   {
     "name": "Megogo Футбол 5 HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31614/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31614/index.m3u8"
   },
   {
     "name": "We Sport TV HD MD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31904/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31904/index.m3u8"
   },
   {
     "name": "W-Sport HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31959/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31959/index.m3u8"
   },
   {
     "name": "Fight Network HD CA",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31960/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31960/index.m3u8"
   },
   {
     "name": "FightBox HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20027/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20027/index.m3u8"
   },
   {
     "name": "FightBox",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/15232/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/15232/index.m3u8"
   },
   {
     "name": "StrahTV WWE Russian",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/11056/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/11056/index.m3u8"
   },
   {
     "name": "MMA-TV.com HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19243/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/19243/index.m3u8"
   },
   {
     "name": "StrahTV MMA TIME HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31710/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/31710/index.m3u8"
   },
   {
     "name": "MMA-TV.com",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9161/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/9161/index.m3u8"
   },
   {
     "name": "MMA-TV.com",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/843/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/843/index.m3u8"
   },
   {
     "name": "Extreme Sports HD",
-    "uri": "http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20028/index.m3u8"
+    "uri": "http://xtef2r1k.russtv.net/iptv/BQG985S7RZNZCG/20028/index.m3u8"
    } 
   ]
  }, 
