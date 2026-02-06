@@ -14447,7 +14447,7 @@
 ]
 },
   {
-    "name": "🧿 ENTRETENIMIENTO",
+    "name": "🧿 MOVISTAR+ TDT",
     "samples": [
   {
     "name": "24 HORAS HD 6cca * EC",
@@ -14466,8 +14466,8 @@
     "extension": ""
   },
  {
-    "name": "LA 1 FHD 740c * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=dad5e0e0825cb3e410008f1c4252387b868e740c",
+    "name": "LA 1 FHD 0349 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1fddc49dd11ae7bb16f2b94648a9b4f0efc80349",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -14484,6 +14484,14 @@
    {
     "name": "LA 1 FHD 40ba * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=7597d4feb3195079ffa606cf23a183d626ee40ba",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "LA 1 FHD 740c * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=dad5e0e0825cb3e410008f1c4252387b868e740c",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -14672,7 +14680,12 @@
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
-  },
+  }
+]
+},
+ {
+    "name": "🧿 MOVISTAR+ CINE Y SERIES",
+    "samples": [
   {
     "name": "M+ ACCION FHD d39f * EC",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=fbf4ebe0dcd9d92d522fad129be22df4924ad39f",
@@ -14856,7 +14869,12 @@
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
-  },
+  }
+]
+},
+{
+    "name": "🧿 MOVISTAR+ DOCUMENTALES",
+    "samples": [
   {
     "name": "M+ DOCUMENTALES FHD 87b9 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9",
@@ -14924,7 +14942,7 @@
 ] 
 }, 
   {
-    "name": "🧿 LA LIGA",
+    "name": "🧿 MOVISTAR+ LA LIGA",
     "samples": [
   {
     "name": "M+ LALIGA 9e38 * STV",
@@ -15117,119 +15135,12 @@
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
-  },
-    {
-    "name": "DAZN LA LIGA 1 496a * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN LA LIGA 1 FHD ef3b * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN LA LIGA 1 FHD 0b05 * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN LA LIGA 1 FHD fb18 * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=4955867fad3bc92e5b4c36045699fc277800fb18",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-   {
-    "name": "DAZN LA LIGA 1 HD ed1f * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN LA LIGA 1 4a3a --> PL",
-    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=8a25653a2f774f4ae1062d38a30dcd714d304a3a",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN LA LIGA 1 29e8 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=19f28f60c908f987b1a03da078e63320d7bf29e8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN LA LIGA 1 FHD 74ae * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN LA LIGA 1 FHD f4b1 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-   {
-    "name": "DAZN LA LIGA 1 FHD 2884 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN LA LIGA 2 FHD cba8 * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN LA LIGA 2 HD 8d36 * EC",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "DAZN LA LIGA 2 FHD fee3 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-   {
-    "name": "DAZN LA LIGA 2 FHD 59c3 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
+  }
+]
+},
+{
+    "name": "🧿 MOVISTAR+ COPA DEL REY",
+    "samples": [
   {
     "name": "COPA DEL REY ee88 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=4b9f813f30b4345fe555f9e218d828d76cd6ee88",
@@ -15257,7 +15168,7 @@
 ] 
 }, 
   {
-    "name": "🧿 HYPERMOTION",
+    "name": "🧿 MOVISTAR+ HYPERMOTION",
     "samples": [
   {
     "name": "HYPERMOTION FHD 4be0 * EC",
@@ -15326,7 +15237,7 @@
 ] 
 }, 
     {
-    "name": "🧿 CHAMPIONS",
+    "name": "🧿 MOVISTAR+ CHAMPIONS",
     "samples": [
   {
     "name": "LIGA DE CAMPEONES f370 * STV",
@@ -15795,7 +15706,7 @@
 ] 
 }, 
     {
-    "name": "🧿 MOVISTAR+",
+    "name": "🧿 MOVISTAR+ PLUS",
     "samples": [
   {
     "name": "M+ PLUS FHD ab78 * EC",
@@ -15840,7 +15751,7 @@
 ] 
 }, 
 {
-    "name": "🧿 DEPORTES+",
+    "name": "🧿 MOVISTAR+ DEPORTES+",
     "samples": [
   {
     "name": "M+ DEPORTES HD (ES) c2b3 * STV",
@@ -16277,7 +16188,7 @@
 ] 
 }, 
   {
-    "name": "🧿 EUROSPORT",
+    "name": "🧿 MOVISTAR+ EUROSPORT",
     "samples": [
   {
     "name": "EUROSPORT 1 FHD 92ea * EC",
@@ -16384,9 +16295,9 @@
     "extension": ""
   }
 ] 
-}, 
-  {
-    "name": "🧿 PRIMERA RFEF",
+},
+{
+    "name": "🧿 MOVISTAR+ PRIMERA RFEF",
     "samples": [
   {
     "name": "PRIMERA FEDERACIÓN FHD cc7f * EC",
@@ -16446,8 +16357,125 @@
   }
 ] 
 }, 
+{
+    "name": "🧿 MOVISTAR+ DAZN LALIGA",
+    "samples": [
+    {
+    "name": "DAZN LA LIGA 1 496a * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN LA LIGA 1 FHD ef3b * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN LA LIGA 1 FHD 0b05 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN LA LIGA 1 FHD fb18 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4955867fad3bc92e5b4c36045699fc277800fb18",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
    {
-    "name": "🧿 FÓRMULA 1",
+    "name": "DAZN LA LIGA 1 HD ed1f * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN LA LIGA 1 4a3a --> PL",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=8a25653a2f774f4ae1062d38a30dcd714d304a3a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN LA LIGA 1 29e8 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=19f28f60c908f987b1a03da078e63320d7bf29e8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN LA LIGA 1 FHD 74ae * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN LA LIGA 1 FHD f4b1 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "DAZN LA LIGA 1 FHD 2884 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN LA LIGA 2 FHD cba8 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN LA LIGA 2 HD 8d36 * EC",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN LA LIGA 2 FHD fee3 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "DAZN LA LIGA 2 FHD 59c3 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  }
+]
+},
+   {
+    "name": "🧿 MOVISTAR+ DAZN F1",
     "samples": [
   {
     "name": "DAZN F1 HD 4be2 * STV",
@@ -16569,10 +16597,10 @@
     "drm_scheme": "clearkey",
     "extension": ""
   }
-] 
-}, 
-  {
-    "name": "🧿 DAZN",
+]
+},
+ {
+    "name": "🧿 MOVISTAR+ DAZN",
     "samples": [
   {
     "name": "DAZN 1 b151 * STV",
@@ -16855,7 +16883,7 @@
     "extension": ""
   }
 ] 
-}, 
+},
   {
     "name": "🧿 DAZN BALONCESTO",
     "samples": [
@@ -16925,7 +16953,7 @@
   }
 ] 
 }, 
-   {
+{
     "name": "🧿 LIGA ENDESA",
     "samples": [
 
@@ -16948,7 +16976,7 @@
 ] 
 }, 
    {
-    "name": "🧿 DEPORTES",
+    "name": "🧿 MÁS DEPORTE",
     "samples": [
   {
     "name": "FOX PREMIUM UFC e1e1 * NE",
@@ -17001,6 +17029,422 @@
   {
     "name": "TNT SPORTS HD FHD c592 * NE",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=363f1d119b1971237318c0d953ab6eea5eb7c592",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
+    "name": "ESSPN 2 USA HD bd68 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=74e78be7e8aa0cfb4ff4cada0eff0fc74bfdbd68",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "ESSPN MX SD 217d * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=648b6c7d1b1800b6d224f22e26694f4d59ad217d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "ESSPN MX 3 HD 2042 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fbc9b6650b886ba0b25c0b9468b625aa6d4a2042",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "ESSPN MX 4 SD 59f0 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=93953cc10405f53e1d4ea2c30f1aad25e28a59f0",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Magenta Sport 1 HD (DE) 5072 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Magenta Sport 2 HD (DE) a9ab * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Magenta Sport 3 HD (DE) 95b8 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d0ca51f6145514ee605c2ef5d5a137e2a08c95b8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Magenta Sport 4 HD (DE) 8849 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1fb794b1503c5955b75ea0106ee6360b80d78849",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Magenta Sport 5 HD (DE) 2730 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=428b92f3c71cd3cbf66ef6193808b39d16a52730",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Magenta Sport 6 HD (DE) 2cd8 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Magenta Sport 7 HD (DE) a9e4 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ac839cda9709255c21a98af455731f037e77a9e4",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Magenta Sport 8 HD (DE) b175 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=11c5823d4196a90b509f03df1fe78e13cfbbb175",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Magenta Sport 9 HD (DE) 37d1 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d37d1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Magenta Sport 10 HD (DE) fb29 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Magenta Sport 11 HD (DE) 6cc6 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "NFL RED ZONE SD f863 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=21be4fe2052fc66456b4f233428bb40a681bf863",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "NFL USA SD 5d62 * NE",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5a71a114fdf460fc90f88b959f83625b964a5d62",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Pluto TV Auto Motor Sport (720p) 2595 * NL",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ffa09e597804001f634dd1829f031823411a2595",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "RTL+ SPORT EVENT 1 (DE) 23d3 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "RTL+ SPORT EVENT 2 (DE) c466 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e360a96fb4bbe1cb8a7862a6514c4c284eeec466",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "RTL+ SPORT EVENT 3 (DE) bd5b * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "RTL+ SPORT EVENT 4 (DE) 30a6 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=784da1ced871f6d3f6bf25f29664bfd39f6130a6",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "RTL+ SPORT EVENT 5 (DE) 0fe5 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=81284e9a279ee23cbc4a7400bd9531f127d20fe5",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "RTL+ SPORT EVENT 6 (DE) 3e30 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c065ab169f75ced1d34fbcab6b84a5fa4ca73e30",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "RTL+ SPORT EVENT 7 (DE) 8a3e * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=eec3f8107e008cec3679f76e078deeefd1348a3e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "RTL+ SPORT EVENT 8 (DE) 516b * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ce4ae0c3491acd4272340029139ba25642e2516b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "RTL+ SPORT EVENT 9 (DE) ec2f * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a435581e6cba56972e48cf4519d1b2af735eec2f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "RTL+ SPORT EVENT 10 (DE) ab7e * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e6cce13cb4005ec3c7d77db47865385927a7ab7e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Setanta Live 1 (RU) e707 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Setanta Live 2 (RU) 880c * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "VIASAT SPORT HD (RU) 7a0b * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Бокс ТВ (RU) 6c3d * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Конный мир HD (RU) 7017 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "КХЛ HD (RU) ab3b * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "КХЛ ТВ (RU) 2dc0 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Матч! Боец (RU) fbfa * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Матч! Игра HD (RU) 673c * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "МАТЧ! Планета (RU) 11af * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Матч! Премьер HD (RU) ba12 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Матч! Страна (RU) 82d1 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Матч! ТВ HD (RU) 8ef2 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Матч! Футбол 1 ( original ) (RU) f0a9 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Матч! Футбол 2 ( original ) (RU) 3f04 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Матч! Футбол 3 ( original ) (RU) 540e * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Мир Баскетбола (RU) f570 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Русский Экстрим (RU) e413 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Спортивный (RU) 40d3 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Старт (RU) 39dc * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Точка отрыва (RU) b0b2 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Футбол HD (RU) 56dd * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Футбольный HD (RU) 693f * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Хоккейный HD (RU) 3857 * STV",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -17739,421 +18183,346 @@
     "extension": ""
   }
 ] 
-}, 
-   {
-    "name": "🧿 MÁS DEPORTE",
+},
+{
+    "name": "🧿 MOVISTAR+ DEPORTES VIP",
     "samples": [
   {
-    "name": "ESSPN 2 USA HD bd68 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=74e78be7e8aa0cfb4ff4cada0eff0fc74bfdbd68",
+    "name": "M. LaLiga (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "ESSPN MX SD 217d * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=648b6c7d1b1800b6d224f22e26694f4d59ad217d",
+    "name": "M. LaLiga 2 (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "ESSPN MX 3 HD 2042 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=fbc9b6650b886ba0b25c0b9468b625aa6d4a2042",
+    "name": "M. LaLiga 3 (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "ESSPN MX 4 SD 59f0 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=93953cc10405f53e1d4ea2c30f1aad25e28a59f0",
+    "name": "M. LaLiga 4 (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Magenta Sport 1 HD (DE) 5072 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072",
+    "name": "M. Liga de Campeones (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Magenta Sport 2 HD (DE) a9ab * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab",
+    "name": "M. Liga de Campeones 2 (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Magenta Sport 3 HD (DE) 95b8 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=d0ca51f6145514ee605c2ef5d5a137e2a08c95b8",
+    "name": "M. Liga de Campeones 3 (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Magenta Sport 4 HD (DE) 8849 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=1fb794b1503c5955b75ea0106ee6360b80d78849",
+    "name": "M. Liga de Campeones 4 (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Magenta Sport 5 HD (DE) 2730 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=428b92f3c71cd3cbf66ef6193808b39d16a52730",
+    "name": "M. Deportes HD (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Magenta Sport 6 HD (DE) 2cd8 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8",
+    "name": "M. Deportes 2 HD (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Magenta Sport 7 HD (DE) a9e4 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=ac839cda9709255c21a98af455731f037e77a9e4",
+    "name": "M. Deportes 3 HD (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Magenta Sport 8 HD (DE) b175 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=11c5823d4196a90b509f03df1fe78e13cfbbb175",
+    "name": "M. Deportes 4 HD (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Magenta Sport 9 HD (DE) 37d1 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d37d1",
+    "name": "M. Deportes 5 HD (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Magenta Sport 10 HD (DE) fb29 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29",
+    "name": "M. Deportes 6 HD (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Magenta Sport 11 HD (DE) 6cc6 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6",
+    "name": "M. Golf HD (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "NFL RED ZONE SD f863 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=21be4fe2052fc66456b4f233428bb40a681bf863",
+    "name": "DAZN F1 HD (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "NFL USA SD 5d62 * NE",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=5a71a114fdf460fc90f88b959f83625b964a5d62",
+    "name": "DAZN LaLiga (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Pluto TV Auto Motor Sport (720p) 2595 * NL",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=ffa09e597804001f634dd1829f031823411a2595",
+    "name": "DAZN1 (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "RTL+ SPORT EVENT 1 (DE) 23d3 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3",
+    "name": "DAZN2 (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "RTL+ SPORT EVENT 2 (DE) c466 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=e360a96fb4bbe1cb8a7862a6514c4c284eeec466",
+    "name": "DAZN3 (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "RTL+ SPORT EVENT 3 (DE) bd5b * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b",
+    "name": "DAZN4 (sport)",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  }
+]
+},
+{
+    "name": "🧿 MOVISTAR+ DEPORTES VIP 2",
+    "samples": [
+  {
+    "name": "M. LaLiga",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=c1959a27edb0b94c5005a2dea93b7a70d4312f1c",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "RTL+ SPORT EVENT 4 (DE) 30a6 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=784da1ced871f6d3f6bf25f29664bfd39f6130a6",
+    "name": "M. LaLiga 2",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=ece9d873508195d3cbb61d4edd428b59f47a1541",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "RTL+ SPORT EVENT 5 (DE) 0fe5 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=81284e9a279ee23cbc4a7400bd9531f127d20fe5",
+    "name": "M. LaLiga 3",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=b24546262982de27283bb378307bb427509ed814",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "RTL+ SPORT EVENT 6 (DE) 3e30 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=c065ab169f75ced1d34fbcab6b84a5fa4ca73e30",
+    "name": "M. LaLiga 4",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=4406d0bf8ce6ff77e13891a4e7a6e2fea124e4fb",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "RTL+ SPORT EVENT 7 (DE) 8a3e * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=eec3f8107e008cec3679f76e078deeefd1348a3e",
+    "name": "M. Liga de Campeones",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fdf7373",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "RTL+ SPORT EVENT 8 (DE) 516b * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=ce4ae0c3491acd4272340029139ba25642e2516b",
+    "name": "M. Liga de Campeones 2",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=cc3d749cfd30877b418f1d59a80d9291e0f091c8",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "RTL+ SPORT EVENT 9 (DE) ec2f * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=a435581e6cba56972e48cf4519d1b2af735eec2f",
+    "name": "M. Liga de Campeones 3",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=8cc8e3c092fa238bc0cbc65382ae436131fc3eab",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "RTL+ SPORT EVENT 10 (DE) ab7e * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=e6cce13cb4005ec3c7d77db47865385927a7ab7e",
+    "name": "M. Liga de Campeones 4",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=2550ea6d32d3384dcc8ac149c711bceb70d4b005",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Setanta Live 1 (RU) e707 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707",
+    "name": "M. Deportes HD",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=8aba55f4f1f47def54447e845518109d797339e7",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Setanta Live 2 (RU) 880c * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c",
+    "name": "M. Deportes 2 HD",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=a0fd9380808627dc9dd061348caa6065e7b6037a",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "VIASAT SPORT HD (RU) 7a0b * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b",
+    "name": "M. Deportes 3 HD",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=8bea71c9fea2605ee9f0e06b2d3795a10662f223",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Бокс ТВ (RU) 6c3d * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d",
+    "name": "M. Deportes 4 HD",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=12bea597fc5075a07becfd34ba11dcad4f31a2c4",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Конный мир HD (RU) 7017 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017",
+    "name": "M. Deportes 5 HD",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=123271cdd9cbabf1d13b42541a2c73c196d96eb8",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "КХЛ HD (RU) ab3b * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b",
+    "name": "M. Deportes 6 HD",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=bc7dff93fc8c6eea22c4b12a453de265d63cd457",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "КХЛ ТВ (RU) 2dc0 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0",
+    "name": "M. Golf HD",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=b715ba3d23d3dca6736ac86990efe105087c3401",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Матч! Боец (RU) fbfa * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa",
+    "name": "DAZN LaLiga",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=8a25653a2f774f4ae1062d38a30dcd714d304a3a",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Матч! Игра HD (RU) 673c * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c",
+    "name": "DAZN F1 HD",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=6d325cda6ed591647ef5e91edd043147bce8be30",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "МАТЧ! Планета (RU) 11af * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af",
+    "name": "DAZN1",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Матч! Премьер HD (RU) ba12 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12",
+    "name": "DAZN2",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=c93a0d4914713db942fbb210bac467b0224c63a6",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Матч! Страна (RU) 82d1 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1",
+    "name": "DAZN3",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=98fba924421aa1e4bd28e74d74a2726d0459b594",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
     "extension": ""
   },
   {
-    "name": "Матч! ТВ HD (RU) 8ef2 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Матч! Футбол 1 ( original ) (RU) f0a9 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Матч! Футбол 2 ( original ) (RU) 3f04 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Матч! Футбол 3 ( original ) (RU) 540e * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Мир Баскетбола (RU) f570 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Русский Экстрим (RU) e413 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Спортивный (RU) 40d3 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Старт (RU) 39dc * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Точка отрыва (RU) b0b2 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Футбол HD (RU) 56dd * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Футбольный HD (RU) 693f * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Хоккейный HD (RU) 3857 * STV",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857",
+    "name": "DAZN4",
+    "uri": "http://127.0.0.1:6878/ace/getstream?infohash=c21a2524a8de3e1e5b126f2677a3e993d9aa07c4",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -18161,7 +18530,6 @@
   }
 ]
 }, 
-
 {
     "name": "🇪🇸 (DRM) Movistar+ TDT",
     "samples": [
