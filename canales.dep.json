@@ -90,55 +90,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-       {
-        "name": "M+ LaLiga (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq2qXNzuOkWKDNUZtVI6sdFm/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "M+ LaLiga (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxYbsKvb3yBn-1Z3twTUNlXl6YiOa6BK1KJZCWQAs_no-/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "M+ LaLiga (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxU424gryjycqAcHzs0n37XVM-v_8JYpUVLgCEbZAw1GF/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "M+ LaLiga (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq2hqJ4Lq5PkrUToPtUF3FQe/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-         {
-        "name": "M+ LaLiga (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115836",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "M+ LaLiga (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115957",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },  
         {
         "name": "M+ LaLiga (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115836",
@@ -154,39 +106,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-        {
-        "name": "Sky Sports Laliga (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115848",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "Sky Sports Laliga (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115858",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "M+ LaLiga 2 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq0Lyz9CUNRN1JGW7It9d5Bg/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "M+ LaLiga 2 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq2spTD_EdsRY4q--benVlCl/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       }      
+       }     
     ] 
 },
 
@@ -225,47 +145,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-        {
-        "name": "M+ Liga Campeones (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/E1fOrUsfC9ABfQ6vKmdilcxWiRdz_IIehVA-jTkmIZLwI4TjrROVbDmolepqAO8U/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-         {
-        "name": "M+ Liga Campeones (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/E1fOrUsfC9ABfQ6vKmdilcxWiRdz_IIehVA-jTkmIZKON5713-uWo9B-13GDYZtu/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-          {
-        "name": "M+ Liga Campeones (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq2QYUw5kPk5MrmImKwjAyTe/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "M+ Liga Campeones (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115837",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-         {
-        "name": "M+ Liga Campeones (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115838",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },     
         {
         "name": "M+ Liga Campeones (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115837",
@@ -281,31 +161,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-        {
-        "name": "M+ Liga Campeones 2 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq04LdtdQ0xSYz0yPA_dTSD4/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "M+ Liga Campeones 2 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq3SEbn3QtVinmvQf5ad5k5X/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "M+ Liga Campeones 2 (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115863",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },     
         {
         "name": "M+ Liga Campeones 2 (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115863",
@@ -345,23 +201,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-       {
-        "name": "M+ Liga Campeones 3 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq3XsMLMOZZrp6DCTHpCfjv6/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "M+ Liga Campeones 3 (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115864",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },    
        {
         "name": "M+ Liga Campeones 3 (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115864",
@@ -385,23 +225,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-         {
-        "name": "M+ Liga Campeones 4 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq2Bc1PTjB0PxlZ-NYxVQwO1/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "M+ Liga Campeones 4 (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115865",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },     
         {
         "name": "M+ Liga Campeones 4 (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115865",
@@ -409,23 +233,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },      
-        {
-        "name": "M+ Liga Campeones 5 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq23Wkjc8XY_jm0K6a462lLh/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-         {
-        "name": "M+ Liga Campeones 5 (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115866",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },       
         {
         "name": "M+ Liga Campeones 5 (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115866",
@@ -433,23 +241,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },       
-       {
-        "name": "M+ Liga Campeones 6 (b) (VPN) (Solo Eventos)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq2ZuZQCOSv51KZ3spW1ykQM/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },     
-        {
-        "name": "M+ Liga Campeones 7 (b) (VPN) (Solo Eventos)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq0iFsTUlq9JJ-YDTHhPQf4q/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       }
+       }    
     ] 
 },
 
@@ -480,95 +272,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-       {
-        "name": "#Vamos (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq3GiBSnj8SCdpS87dZh_pyX/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-         {
-        "name": "#Vamos (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq3bMyjIigSgyij8k5AzkoeD/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-         {
-        "name": "#Vamos (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq1sG8JGR-EFquQoFnetW4-1/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "#Vamos (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115815",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "#Vamos (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115835",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "#Vamos (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115952",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "#Vamos (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/128316",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "#Vamos (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/128317",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "#Vamos (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/128315",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "#Vamos (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/128316",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "#Vamos (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/128317",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },   
        {
         "name": "#Vamos (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115815",
@@ -624,23 +328,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-        {
-        "name": "Ellas#Vamos (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxYbEEhrm-QvUS0mmKKE1X6mPkCz-6gwDtXSRtJiKiYMC/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "Ellas#Vamos (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxYbEEhrm-QvUS0mmKKE1X6njYIt2aXwnaW4CA-RxjZqA/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },   
+       },      
         {
         "name": "M+ Deportes (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/25795",     
@@ -655,32 +343,7 @@
         "name": "M+ Deportes (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/25800",    
         "extension": ""
-       },
-        {
-        "name": "M+ Deportes (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq3u_gRDk-ONvjnGSTbykw8J/ts",     
-        "extension": ""
-       },
-        {
-        "name": "M+ Deportes (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq0sKdl0wTreTrqktJoUHK2v/ts",    
-        "extension": ""
-       },
-        {
-        "name": "M+ Deportes (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq3h-gt8PbNbxZnVTmQd5Ym9/ts",   
-        "extension": ""
-       },
-        {
-        "name": "M+ Deportes (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115839",   
-        "extension": ""
-       },
-       {
-        "name": "M+ Deportes (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115925",   
-        "extension": ""
-       },
+       },   
        {
         "name": "M+ Deportes (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115839",   
@@ -706,23 +369,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-        {
-        "name": "M+ Deportes 2 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq15t9scDgQ9y8hQzRcpGpWQ/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-         {
-        "name": "M+ Deportes 2 (c) (VPN) (Solo Eventos)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115860",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },    
        {
         "name": "M+ Deportes 2 (d) (VPN) (Solo Eventos)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115860",
@@ -738,23 +385,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-       {
-        "name": "M+ Deportes 3 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq03anNDTlPoVXTa58yjx9U7/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "M+ Deportes 3 (c) (VPN) (Solo Eventos)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115861",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },   
          {
         "name": "M+ Deportes 3 (d) (VPN) (Solo Eventos)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115861",
@@ -778,23 +409,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-       {
-        "name": "M+ Deportes 4 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq2PLQTmecv8Rio-i2WYibFK/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-         {
-        "name": "M+ Deportes 4 (c) (VPN) (Solo Eventos)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115862",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },    
         {
         "name": "M+ Deportes 4 (d) (VPN) (Solo Eventos)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115862",
@@ -802,23 +417,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-        {
-        "name": "M+ Deportes 5 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq036tOP8Ny8-IkIDahCOHlR/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "M+ Deportes 6 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq3izIDuZiJCZMRbVf_n38lt/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },     
+       },       
         {
         "name": "M+ Golf (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/12398",
@@ -834,23 +433,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-       {
-        "name": "M+ Golf (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq2zNrMiTJYSj06JUMuz_LRk/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "M+ Golf (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq0PJh_bzz0Fyj3TqFfm1x20/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },   
         {
         "name": "M+ Golf (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115853",
@@ -882,23 +465,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-        {
-        "name": "M+ Golf 2 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxSLw8U8KKZSEQ39SHUQKwrRN__9HjwGe06FFSd9QobzH/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-         {
-        "name": "M+ Golf 2 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxSLw8U8KKZSEQ39SHUQKwrTCKh0cIx5mWsiqGP9H5jj-/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },    
         {
         "name": "M+ Plus (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/236377",
@@ -906,39 +473,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-        {
-        "name": "M+ Plus (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxaIX5VIybvtGQOroitPu2Lm_vmxDv4hxAe-teAVuV0qG/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "M+ Plus (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxaIX5VIybvtGQOroitPu2LnFxWsPdDA5S3_gD3egoIsz/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "M+ Plus 2 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxaIX5VIybvtGQOroitPu2Lm1k4_dxWYh3cAAeSYkpBT5/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "M+ Plus 2 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxaIX5VIybvtGQOroitPu2Lmyzqp5aN3lmw-XiLPleul3/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       }
+       }     
     ] 
 }, 
 
@@ -961,15 +496,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-         {
-        "name": "DAZN LaLiga (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115975",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },      
          {
         "name": "DAZN LaLiga (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115975",
@@ -985,31 +512,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-        {
-        "name": "DAZN LaLiga 2 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWymzqJOoc4XNB2R15YLrgL6ZMFO1h__SisdSANbWf0P/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "DAZN LaLiga 2 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWymzqJOoc4XNB2R15YLrgKQZnUj18VGD_t9zAVUbIUa/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "DAZN LaLiga 2 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWymzqJOoc4XNB2R15YLrgLrfP3aSPYSmh1ZWxnh0cVR/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },       
          {
         "name": "DAZN LaLiga 2 (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115976",
@@ -1041,39 +544,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-       {
-        "name": "DAZN F1 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxUfVJ8RPu60vlWAv_uoMiC5AyeT7GxueZWQIOBxuPYtK/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "DAZN F1 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxWz6BZVwiSI8a5LPj72pVq17G5I2S15M5T4SKim63ov2/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "DAZN F1 (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115840",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-         {
-        "name": "DAZN F1 (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115841",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },    
         {
         "name": "DAZN F1 (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115840",
@@ -1105,15 +576,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       }, 
-        {
-        "name": "DAZN 1 (b) (VPN)",
-        "uri": "http://117.55.203.190:80/play/jqDUlWoOz8jbTlBXV6ocxQFrbM5pzDtmMesyxkO0W-XYJvRG_Ikpjth2ndIcHKvp/ts",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },        
+       },     
         {
         "name": "DAZN 1 (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115842",
@@ -1137,23 +600,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-          {
-        "name": "DAZN 2 (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115843",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-         {
-        "name": "DAZN 2 (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115844",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },      
         {
         "name": "DAZN 2 (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115843",
@@ -1177,23 +624,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },
-         {
-        "name": "DAZN 3 (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115845",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "DAZN 3 (c) (VPN)",
-        "uri": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115974",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },     
         {
         "name": "DAZN 3 (d) (VPN)",
         "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115845",
