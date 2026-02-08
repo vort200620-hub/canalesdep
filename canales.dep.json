@@ -4,7 +4,7 @@
     "samples": [
    
   {
-        "name": "07/02/2026",
+        "name": "08/02/2026",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/",
         "kid": "",
         "key": "",
@@ -18806,172 +18806,6 @@
  ] 
 },
   {
-    "name": "🇪🇸 (DRM) La Liga (Sky Sports)",
-    "samples": [
-
-{
-        "name": "Sky Sports Laliga",
-        "uri": "https://live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd",     
-        "kid": "yI3GxmjKw7Ro1KTH4Xb/PQ",
-        "key": "GutzneLBTtCtZYyoBDII2A",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "Sky Sports Laliga",
-        "uri": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS-16-HD/manifest.mpd",
-        "kid": "yI3GxmjKw7Ro1KTH4Xb/PQ",
-        "key": "GutzneLBTtCtZYyoBDII2A",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },    
-           {
-        "name": "Sky Sports Laliga",
-        "uri": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd",
-        "kid": "yI3GxmjKw7Ro1KTH4Xb/PQ",
-        "key": "GutzneLBTtCtZYyoBDII2A",
-        "drm_scheme": "clearkey",
-        "extension": ""
-      },
-       {
-        "name": "LaLiga TV (Inglés)",
-        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-        "kid": "Yg5RuCWWR1UXonqkJcUigA",
-        "key": "K5uoEenFrq/IrhtxzcpNag",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },      
-        {
-        "name": "LaLiga TV (Inglés)",
-        "uri": "https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-        "kid": "Yg5RuCWWR1UXonqkJcUigA",
-        "key": "K5uoEenFrq/IrhtxzcpNag",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "LaLiga TV (Inglés)",
-        "uri": "https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-        "kid": "t3DVtLtrWU2vmFhFqumqXw,Yg5RuCWWR1UXonqkJcUigA", 
-        "key": "sMtG0tMc8ES8c9tx6YZfbw,K5uoEenFrq/IrhtxzcpNag", 
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "Sky Sports",
-        "uri": "https://live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd",
-        "kid": "M1UR398NA7wG8f3q1YcLWg",
-        "key": "GgIvszrT3k1FebBJZlUUiA",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "Sky Sports",
-        "uri": "https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/manifest.mpd",
-        "kid": "M1UR398NA7wG8f3q1YcLWg",
-        "key": "GgIvszrT3k1FebBJZlUUiA",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "Sky Sports 21",
-        "uri": "https://live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
-        "kid": "mZCQMjicbuQcPS8+yCn4BA",
-        "key": "QfvFdcjvHNrB3KmQyaDfnQ",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "Sky Sports Bundesliga",
-        "uri": "https://live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/default.mpd",
-        "kid": "2NWCPZKp75MGpMxL1jS0tA",
-        "key": "35+9qg756QW3X0aS8hOvGQ",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-         {
-        "name": "Sky Events 1",
-        "uri": "https://live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd",
-        "kid": "o2NqUSJ/ozjN3fWJLYpiHA",
-        "key": "FETuPE0IvzlFS5FPeXlo6w",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "Sky Events 2",
-        "uri": "https://live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/default.mpd",
-        "kid": "cjmlj7c4iyIqg01Um/GNjw",
-        "key": "iwSog+iNvevENnPZmOocsg",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "Sky Events 3",
-        "uri": "https://live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/default.mpd",
-        "kid": "VhohrVD4Brd9Mo3tvln5Pg",
-        "key": "7fPnDMnegac+KgD+nAYRqA",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "Sky Events 4",
-        "uri": "https://live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd",
-        "kid": "qTGy6VNpX/sM/ThXPpe6Mw",
-        "key": "Td2ZzE+xaNfw4gvooyhxAA",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "Sky Events 5",
-        "uri": "https://live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd",
-        "kid": "bInoTFLq4EKLfSyOiHpI7A",
-        "key": "dYoUhPkgoPGqc+ldXyviJQ",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "Sky Events 6",
-        "uri": "https://live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/default.mpd",
-        "kid": "7HIpBnzeBuC+2qDXHsDJdA",
-        "key": "2gO2XTM+dKquRGIRqDx1lQ",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "Sky Events 7",
-        "uri": "https://live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/default.mpd",
-        "kid": "2eMCSFRkjdAXFPeBwUksTA",
-        "key": "lARUGXXSmPZ4fFkdLMhxsQ",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "Sky Events 8",
-        "uri": "https://live1-ott.izzigo.tv/3/out/u/dash/SKY-LIVE-EVENT-8-HD/default.mpd",
-        "kid": "U3gceRYXFrJ936cKhnHLmg",
-        "key": "7HR/4iLiOKZREgLOiaA98Q",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "Sky Events 9",
-        "uri": "https://live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-9-HD/default.mpd",
-        "kid": "HVC2kwtiQnlX0sh0E5d1fA",
-        "key": "umz5/6ee8QY7yX33PSwWMg",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "Sky Events 10",
-        "uri": "https://live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-10-HD/default.mpd",
-        "kid": "B3ErLkekzdaDQmUgi9PO2w",
-        "key": "5y74w5QvSkDnko0G8ZBAKQ",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       } 
-    ]
-   }, 
-{
     "name": "🇪🇸 (DRM) Movistar+ La Liga",
     "samples": [
   {
@@ -21327,9 +21161,7 @@
       }
      ]
    }, 
-     
-     
-{
+     {
     "name": "🇪🇸 (DRM) Avatel TV",
     "samples": [
       {
@@ -23441,8 +23273,7 @@
       } 
     ]
   },
-
- {
+      {
     "name": "🇪🇸 (DRM) Toros",
     "samples": [ 
       {
@@ -23564,6 +23395,177 @@
       }
    ]
  },
+   {
+    "name": "🇪🇸 (DRM) Sky Sports",
+    "samples": [
+
+{
+        "name": "Sky Sports Laliga",
+        "uri": "https://live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd",     
+        "kid": "yI3GxmjKw7Ro1KTH4Xb/PQ",
+        "key": "GutzneLBTtCtZYyoBDII2A",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+       {
+        "name": "Sky Sports Laliga",
+        "uri": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS-16-HD/manifest.mpd",
+        "kid": "yI3GxmjKw7Ro1KTH4Xb/PQ",
+        "key": "GutzneLBTtCtZYyoBDII2A",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },    
+           {
+        "name": "Sky Sports Laliga",
+        "uri": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd",
+        "kid": "yI3GxmjKw7Ro1KTH4Xb/PQ",
+        "key": "GutzneLBTtCtZYyoBDII2A",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "Sky Sports",
+        "uri": "https://live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd",
+        "kid": "M1UR398NA7wG8f3q1YcLWg",
+        "key": "GgIvszrT3k1FebBJZlUUiA",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+        {
+        "name": "Sky Sports",
+        "uri": "https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/manifest.mpd",
+        "kid": "M1UR398NA7wG8f3q1YcLWg",
+        "key": "GgIvszrT3k1FebBJZlUUiA",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+       {
+        "name": "Sky Sports 21",
+        "uri": "https://live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
+        "kid": "mZCQMjicbuQcPS8+yCn4BA",
+        "key": "QfvFdcjvHNrB3KmQyaDfnQ",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+        {
+        "name": "Sky Sports Bundesliga",
+        "uri": "https://live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/default.mpd",
+        "kid": "2NWCPZKp75MGpMxL1jS0tA",
+        "key": "35+9qg756QW3X0aS8hOvGQ",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+         {
+        "name": "Sky Events 1",
+        "uri": "https://live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd",
+        "kid": "o2NqUSJ/ozjN3fWJLYpiHA",
+        "key": "FETuPE0IvzlFS5FPeXlo6w",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+        {
+        "name": "Sky Events 2",
+        "uri": "https://live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/default.mpd",
+        "kid": "cjmlj7c4iyIqg01Um/GNjw",
+        "key": "iwSog+iNvevENnPZmOocsg",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+       {
+        "name": "Sky Events 3",
+        "uri": "https://live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/default.mpd",
+        "kid": "VhohrVD4Brd9Mo3tvln5Pg",
+        "key": "7fPnDMnegac+KgD+nAYRqA",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+        {
+        "name": "Sky Events 4",
+        "uri": "https://live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd",
+        "kid": "qTGy6VNpX/sM/ThXPpe6Mw",
+        "key": "Td2ZzE+xaNfw4gvooyhxAA",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+       {
+        "name": "Sky Events 5",
+        "uri": "https://live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd",
+        "kid": "bInoTFLq4EKLfSyOiHpI7A",
+        "key": "dYoUhPkgoPGqc+ldXyviJQ",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+       {
+        "name": "Sky Events 6",
+        "uri": "https://live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/default.mpd",
+        "kid": "7HIpBnzeBuC+2qDXHsDJdA",
+        "key": "2gO2XTM+dKquRGIRqDx1lQ",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+        {
+        "name": "Sky Events 7",
+        "uri": "https://live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/default.mpd",
+        "kid": "2eMCSFRkjdAXFPeBwUksTA",
+        "key": "lARUGXXSmPZ4fFkdLMhxsQ",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+        {
+        "name": "Sky Events 8",
+        "uri": "https://live1-ott.izzigo.tv/3/out/u/dash/SKY-LIVE-EVENT-8-HD/default.mpd",
+        "kid": "U3gceRYXFrJ936cKhnHLmg",
+        "key": "7HR/4iLiOKZREgLOiaA98Q",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+        {
+        "name": "Sky Events 9",
+        "uri": "https://live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-9-HD/default.mpd",
+        "kid": "HVC2kwtiQnlX0sh0E5d1fA",
+        "key": "umz5/6ee8QY7yX33PSwWMg",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+        {
+        "name": "Sky Events 10",
+        "uri": "https://live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-10-HD/default.mpd",
+        "kid": "B3ErLkekzdaDQmUgi9PO2w",
+        "key": "5y74w5QvSkDnko0G8ZBAKQ",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       } 
+    ]
+   },
+   {
+    "name": "🇪🇸 (DRM) LaLiga TV - Inglés",
+    "samples": [
+    {
+        "name": "LaLiga TV (Inglés)",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+        "kid": "Yg5RuCWWR1UXonqkJcUigA",
+        "key": "K5uoEenFrq/IrhtxzcpNag",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },      
+        {
+        "name": "LaLiga TV (Inglés)",
+        "uri": "https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+        "kid": "Yg5RuCWWR1UXonqkJcUigA",
+        "key": "K5uoEenFrq/IrhtxzcpNag",
+        "drm_scheme": "clearkey",
+        "extension": ""
+       },
+        {
+        "name": "LaLiga TV (Inglés)",
+        "uri": "https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+        "kid": "t3DVtLtrWU2vmFhFqumqXw,Yg5RuCWWR1UXonqkJcUigA", 
+        "key": "sMtG0tMc8ES8c9tx6YZfbw,K5uoEenFrq/IrhtxzcpNag", 
+        "drm_scheme": "clearkey",
+        "extension": ""
+       }
+     ]
+    }, 
  {
     "name": "🇪🇸 (M3U8) Movistar+ TDT",
     "samples": [
