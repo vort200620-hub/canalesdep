@@ -4,7 +4,7 @@
     "samples": [
    
   {
-        "name": "08/02/2026",
+        "name": "09/02/2026",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/",
         "kid": "",
         "key": "",
@@ -19162,24 +19162,9 @@
  ] 
 }, 
 {
-    "name": "🇪🇸 (DRM) Movistar+ DAZN",
+    "name": "🇪🇸 (DRM) DAZN F1",
     "samples": [
-  {
-    "name": "DAZN LALIGA",
-    "uri": "http://01daznliga-dash-movistarplus.emisiondof6.com/manifest%2e%6d%70%64",
-    "kid": "6U8C426sRJq6PA/Ssnq0JA,LpaBu3ycQA6DLEMtt7+NHQ",
-    "key": "p5S8T7RNgVX7zfdMZwcyNA,LqasMuRxeC2R10oDqPW6Gw",
-    "drm_scheme": "clearkey",
-    "extension": "mpd"
-  },
-  {
-    "name": "DAZN LALIGA 2",
-    "uri": "http://02daznliga-dash-movistarplus.emisiondof6.com/manifest%2e%6d%70%64",
-    "kid": "tFldMPCDTX6cvEWofNOXYQ,sPTpGPmWSGC+cpIXchJy0Q",
-    "key": "kFZsNla8waRWtep1VneZ5w,0ThxfNhFuF7cymQAreOmJQ",
-    "drm_scheme": "clearkey",
-    "extension": "mpd"
-  },
+
   {
     "name": "DAZN F1",
     "uri": "http://formula1-dash-movistarplus.emisiondof6.com/manifest%2e%6d%70%64",
@@ -23396,7 +23381,7 @@
    ]
  },
    {
-    "name": "🇪🇸 (DRM) Sky Sports",
+    "name": "🇪🇸 (DRM) Sky Sports (No funciona)",
     "samples": [
 
 {
@@ -31524,4 +31509,4 @@
   }
 ]
 }
-] 
+]
