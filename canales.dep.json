@@ -4,7 +4,7 @@
     "samples": [
    
   {
-        "name": "09/02/2026",
+        "name": "11/02/2026",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/",
         "kid": "",
         "key": "",
@@ -90,26 +90,9 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },  
-        {
-        "name": "M+ LaLiga (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115836",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "M+ LaLiga (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115957",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       }     
+       }    
     ] 
 },
-
  {
     "name": "🇪🇸 M+ LIGA CAMPEONES (IPTV)",
     "samples": [
@@ -145,31 +128,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },     
-        {
-        "name": "M+ Liga Campeones (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115837",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "M+ Liga Campeones (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115838",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },     
-        {
-        "name": "M+ Liga Campeones 2 (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115863",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },        
        {
         "name": "M+ Liga Campeones 2 (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/60292",
@@ -201,15 +160,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },    
-       {
-        "name": "M+ Liga Campeones 3 (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115864",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },       
         {
         "name": "M+ Liga Campeones 4 (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/60296",
@@ -225,26 +176,9 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },     
-        {
-        "name": "M+ Liga Campeones 4 (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115865",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },       
-        {
-        "name": "M+ Liga Campeones 5 (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115866",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       }    
+       }      
     ] 
 },
-
  {
     "name": "🇪🇸 M+ DEPORTES (IPTV)",
     "samples": [
@@ -272,47 +206,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },   
-       {
-        "name": "#Vamos (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115815",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "#Vamos (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/128315",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "#Vamos (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/128316",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-         {
-        "name": "#Vamos (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115835",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "#Vamos (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115952",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },       
        {
         "name": "Ellas#Vamos (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/60340",
@@ -343,17 +237,7 @@
         "name": "M+ Deportes (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/25800",    
         "extension": ""
-       },   
-       {
-        "name": "M+ Deportes (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115839",   
-        "extension": ""
-       },
-       {
-        "name": "M+ Deportes (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115925",   
-        "extension": ""
-       },
+       },      
        {
         "name": "M+ Deportes 2 (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/60331",
@@ -370,14 +254,6 @@
         "drm_scheme": "clearkey",
         "extension": ""
        },    
-       {
-        "name": "M+ Deportes 2 (d) (VPN) (Solo Eventos)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115860",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
         {
         "name": "M+ Deportes 3 (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/60333",
@@ -385,15 +261,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },   
-         {
-        "name": "M+ Deportes 3 (d) (VPN) (Solo Eventos)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115861",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },          
        {
         "name": "M+ Deportes 4 (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/60335",
@@ -409,15 +277,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },    
-        {
-        "name": "M+ Deportes 4 (d) (VPN) (Solo Eventos)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115862",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },       
+       },                 
         {
         "name": "M+ Golf (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/12398",
@@ -433,23 +293,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },   
-        {
-        "name": "M+ Golf (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115853",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "M+ Golf (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115854",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },       
          {
         "name": "M+ Golf 2 (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/60347",
@@ -476,7 +320,6 @@
        }     
     ] 
 }, 
-
  {
     "name": "🇪🇸 DAZN (IPTV)",
     "samples": [
@@ -496,15 +339,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },      
-         {
-        "name": "DAZN LaLiga (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115975",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },             
          {
         "name": "DAZN LaLiga 2 (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/60269",
@@ -512,15 +347,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },       
-         {
-        "name": "DAZN LaLiga 2 (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115976",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },              
        {
         "name": "DAZN F1 (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/12348",
@@ -544,23 +371,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },    
-        {
-        "name": "DAZN F1 (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115840",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "DAZN F1 (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115841",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },        
        {
         "name": "DAZN 1 (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/60354",
@@ -576,15 +387,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },     
-        {
-        "name": "DAZN 1 (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115842",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },         
        {
         "name": "DAZN 2 (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/60357",
@@ -600,23 +403,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },      
-        {
-        "name": "DAZN 2 (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115843",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-       {
-        "name": "DAZN 2 (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115844",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },         
        {
         "name": "DAZN 3 (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/60362",
@@ -624,23 +411,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
-       },     
-        {
-        "name": "DAZN 3 (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115845",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
-        {
-        "name": "DAZN 3 (d) (VPN)",
-        "uri": "http://medotv.nl:8000/habibisamih/anhjpRbZ6QtW/115974",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-       },
+       },       
        {
         "name": "DAZN 4 (a) (VPN)",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/60363",
