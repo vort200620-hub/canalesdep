@@ -13662,6 +13662,2352 @@
   }
 ]
 },
+ {
+    "name": "🇪🇸 M+ ENTRETENIMIENTO 6 (IPTV)",
+    "samples": [
+  {
+    "name": "La 1 SD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/317165.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La 1 HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316180.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA 1 HD opción 1",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110039.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA 1 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316178.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La 1 UHD SAT",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315674.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La 2 HD SAT",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315677.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA 2 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316181.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA 2",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316182.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La 2",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/317166.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Antena 3 SD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/317167.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Antena 3 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316185.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Antena 3 Internacional SD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/317168.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cuatro SD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/317169.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cuatro FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316187.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Telecinco FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316189.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Telecinco",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/317170.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "**Telecinco** HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315685.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La sexta FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316191.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La Sexta",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/317171.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La sexta FHD SAT",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315686.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Nova FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316195.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Nova FHD SAT",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315691.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Divinity FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316201.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "BE MAD FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316205.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DMAX FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316207.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Dmax",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316208.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "FDF SAT HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315698.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "FDF FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316203.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "TEN FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316209.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "TEN",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316210.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Mega FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316199.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Trece",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316214.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Neox FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316193.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Energy FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316197.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Teledeporte FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316216.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Teledeporte",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316217.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "MEGA",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/317178.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Mega",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315694.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Dkiss FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315707.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "CLAN HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110284.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "***TVE¹** lNTERNACI0NAL",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/361099.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "ES:|*TVE¹ Internacional op ²",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/317163.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "24H",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110076.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "24H FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316183.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "24h",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/317164.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "ES | 24H",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/206901.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "STAR Channel FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316360.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Star Channel FHD |opc-4|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316362.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Warner TV FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316370.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "AXN FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316363.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "AXN FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316364.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Calle 13 FHD |opc-3|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316374.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Syfy FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316376.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Comedy Central FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316380.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "A3 Series FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316357.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "A3 Series",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316358.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cosmo FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316385.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Warner TV FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316369.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cosmo FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316384.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Estrenos FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316288.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Hits FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316292.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Originales FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316296.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Vacaciones FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316300.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Clasicos FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316306.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Acción FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316309.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Comedia FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316313.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Comedia FHD |opc-3|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316315.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Drama FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316317.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Drama FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316318.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Indie FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316321.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "TCM FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316329.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Dark FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316332.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Squirrel 2",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316334.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Veo7",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316337.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "AMC FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316338.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Hollywood FHD |opc-3|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316344.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Xtrm FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316346.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Sundance FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316349.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Somos FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316352.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Somos FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316353.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Comedia FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316314.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Cine Español FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316325.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "***M+Acción FHD |opc-3|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316311.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "****M+Estrenos FHD |opc-3|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316290.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "BBC FOOD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316441.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "BBC DRAMA",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316442.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "BBC TOP GEAR",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316443.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "BBC HISTORY",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316444.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "VinTv",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316445.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "HBO Max Avances",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316446.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Historia Y Vida",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316447.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "AMC SELEKT",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316448.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "AMC Break FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316449.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "AMC BuenViaje! FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316452.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Amc Crimen FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316455.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Love wine",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316466.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Discovery FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316467.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Documentales FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316471.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Historia FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316475.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Nat Geo Wild FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316479.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Nat Geographic FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316483.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Odisea FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316487.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Odisea FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316488.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Canal deCasa FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316462.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Canal Cocina FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316458.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "CANAL DECASA HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110245.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "CANAL COCINA FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110243.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "CAZA Y PESCA FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110274.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "NATIONAL GEOGRAFIC WILD HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110255.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "CAZA Y PESCA",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110272.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "CAZA Y PESCA HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110273.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "CRIMEN & INVESTIGACION FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110266.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "CANAL DECASA FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110246.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Iberalia FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316531.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "OneToro TV FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316540.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Caza y Pesca FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316526.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "TOROS HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110270.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "TOROS TV FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110271.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Mundotoros tv",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110269.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "CazaVision FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316528.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Iberalia 100% Caza FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316535.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El toro TV",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316215.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Estrenos FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315718.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Hits FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315722.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Clasicos FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315727.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Acción FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315729.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Acción FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315730.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Comedia FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315732.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Comedia FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315733.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Drama FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315736.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Drama FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315737.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Indie FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315740.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+Cine Español FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315745.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Skyshowtime |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315748.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "En Familia |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315755.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "A3 Series FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315757.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "A3 Series HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315758.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "AMC FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315759.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "AMC FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315760.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "AXN FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315762.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "AXN FHD |opc-3|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315764.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "AXN Movies FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315765.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Calle 13 FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315767.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Calle 13 FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315768.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Dark FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315771.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Hollywood FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315773.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "STAR Channel FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315776.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "STAR Channel FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315777.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Star Channel HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315779.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Warner TV FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315780.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Warner TV FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315781.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Syfy FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315784.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "TCM FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315792.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Somos FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315795.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Somos FHD |opc-2|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315796.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Sundance FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315797.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+E: Demi Moore",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315714.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+LOS GOYA FHD |opc-1|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315715.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  }
+]
+},
+{
+    "name": "🇪🇸 M+ DEPORTES 6 (IPTV)",
+    "samples": [
+  {
+    "name": "LA  LlGA_TV SD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406839.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV TV FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406871.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406872.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406873.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV HD |Orange|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406841.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV FHD |Orange|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406874.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV FHD Multi_Audio 2",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406838.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 2 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406877.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA LlGA_TV 2 HDR |Orange|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406832.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 2 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406865.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 2 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406866.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 2 FHD |Orange|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406867.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 2 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406868.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 2 Multi_audio",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406833.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 2 FHD MultiAudio",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406869.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 3 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406860.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 3 FHD (Solo Eventos)",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406861.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 3 FHD |Orange|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406862.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 3 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406863.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 3 FHD Multi_Audio(Solo Eventos)",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406864.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 4 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406856.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 4 FHD (Solo_Eventos)",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406857.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 4 FHD (Solo_Eventos)",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406858.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LA  LlGA_TV 4 FHD |Orange|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406859.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN_LlGA",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406691.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN_LlGA",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406692.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN_LlGA",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406693.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN_LlGA",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406694.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN_LlGA 2",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406695.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN_LlGA 2",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406696.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN_LlGA 2",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406697.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN_LlGA 3",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406698.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN_LlGA 4",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406699.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN_LlGA 5",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406700.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Copa del Rey Multiaudio",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315524.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Copa del Rey",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315520.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Copa del Rey",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315521.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ Copa del Rey",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315522.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M Copa del Rey  |Orange|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/315523.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376384.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376383.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/305949.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/305950.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/305952.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/305956.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376370.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 2 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/305953.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 2",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/305954.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 2",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376371.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 2",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376374.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "E$:| LlGA DE CAMPEONES 3",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376375.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 3",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/305955.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "E$: LlGA DE CAMPEONES 4",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376376.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 5",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376377.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 6",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376378.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 7",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376379.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 8",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376380.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 9",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376381.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 12",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376372.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 12",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376385.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LIGA DE CAMPEONES 13",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/376373.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ PLUS FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/438249.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M+ PLUS HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/438246.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M. Deportes SD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431834.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M. Deportes HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431833.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M. Deportes FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431832.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M. Deportes 2 HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/438240.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M. Deportes 2 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/438243.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "#Vamos SD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431830.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "#Vamos HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431829.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "#Vamos FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431828.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ellas #V FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431840.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ellas #V HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431841.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ellas #V SD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431842.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M. Golf SD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431848.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M. Golf HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431847.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M. Golf FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431846.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M. Golf 2 SD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431845.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M. Golf 2 HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431844.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "M. Golf 2 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431843.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "EUR0$P0RTS  1",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/360721.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "EUR0$P0RTS  2",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/244027.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Teledeporte SD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431831.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "TeleDeporte",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/317174.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "GOL Play FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431838.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Real Madrid TV SD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431836.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Real Madrid TV HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/431835.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 4K",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/125366.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/125364.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/144057.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN  F1",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/125363.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/125365.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110220.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110221.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/124765.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 FHD Multiaudio",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316389.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316390.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 FHD |Orange|",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316391.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316392.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316393.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316394.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316395.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN F1 HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/124763.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN  1 FHD.",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110224.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 1 HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110225.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 1 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/124764.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 1 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316424.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 1 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316425.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 1 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316426.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 1 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316427.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 1 HD SAT",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316428.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN  2 FHD.",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110228.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN  2 HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110226.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 2",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110232.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 2 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316429.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 2 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316430.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 2 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316431.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 2 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316432.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 3 HD.",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110229.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 3",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/124768.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 3 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316433.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 3 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316434.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 3 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316435.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 3 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316436.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 4 HD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/110231.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 4 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/124767.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 4 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316437.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 4 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316438.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DAZN 4 FHD",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/316439.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LlGA ENDESA 1",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406879.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LlGA ENDESA 2",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406880.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LlGA ENDESA 3",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406881.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LlGA ENDESA 4",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406882.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "LlGA ENDESA 5",
+    "uri": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/406883.ts",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  }
+]
+},
 {
     "name": "🧿 MOVISTAR+ TDT",
     "samples": [
