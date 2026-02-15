@@ -4,7 +4,7 @@
     "samples": [
    
   {
-        "name": "12/02/2026",
+        "name": "15/02/2026",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/",
         "kid": "",
         "key": "",
@@ -11321,7 +11321,7 @@
     "samples": [
   {
     "name": "La 1 SD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/317165.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/317165.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11329,7 +11329,7 @@
   },
   {
     "name": "La 1 HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316180.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316180.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11337,7 +11337,7 @@
   },
   {
     "name": "LA 1 HD opción 1",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110039.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110039.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11345,7 +11345,7 @@
   },
   {
     "name": "LA 1 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316178.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316178.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11353,7 +11353,7 @@
   },
   {
     "name": "La 1 UHD SAT",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315674.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315674.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11361,7 +11361,7 @@
   },
   {
     "name": "La 2 HD SAT",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315677.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315677.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11369,7 +11369,7 @@
   },
   {
     "name": "LA 2 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316181.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316181.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11377,7 +11377,7 @@
   },
   {
     "name": "LA 2",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316182.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316182.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11385,7 +11385,7 @@
   },
   {
     "name": "La 2",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/317166.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/317166.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11393,7 +11393,7 @@
   },
   {
     "name": "Antena 3 SD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/317167.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/317167.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11401,7 +11401,7 @@
   },
   {
     "name": "Antena 3 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316185.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316185.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11409,7 +11409,7 @@
   },
   {
     "name": "Antena 3 Internacional SD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/317168.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/317168.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11417,7 +11417,7 @@
   },
   {
     "name": "Cuatro SD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/317169.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/317169.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11425,7 +11425,7 @@
   },
   {
     "name": "Cuatro FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316187.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316187.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11433,7 +11433,7 @@
   },
   {
     "name": "Telecinco FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316189.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316189.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11441,7 +11441,7 @@
   },
   {
     "name": "Telecinco",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/317170.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/317170.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11449,7 +11449,7 @@
   },
   {
     "name": "**Telecinco** HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315685.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315685.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11457,7 +11457,7 @@
   },
   {
     "name": "La sexta FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316191.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316191.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11465,7 +11465,7 @@
   },
   {
     "name": "La Sexta",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/317171.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/317171.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11473,7 +11473,7 @@
   },
   {
     "name": "La sexta FHD SAT",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315686.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315686.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11481,7 +11481,7 @@
   },
   {
     "name": "Nova FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316195.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316195.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11489,7 +11489,7 @@
   },
   {
     "name": "Nova FHD SAT",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315691.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315691.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11497,7 +11497,7 @@
   },
   {
     "name": "Divinity FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316201.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316201.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11505,7 +11505,7 @@
   },
   {
     "name": "BE MAD FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316205.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316205.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11513,7 +11513,7 @@
   },
   {
     "name": "DMAX FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316207.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316207.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11521,7 +11521,7 @@
   },
   {
     "name": "Dmax",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316208.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316208.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11529,7 +11529,7 @@
   },
   {
     "name": "FDF SAT HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315698.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315698.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11537,7 +11537,7 @@
   },
   {
     "name": "FDF FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316203.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316203.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11545,7 +11545,7 @@
   },
   {
     "name": "TEN FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316209.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316209.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11553,7 +11553,7 @@
   },
   {
     "name": "TEN",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316210.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316210.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11561,7 +11561,7 @@
   },
   {
     "name": "Mega FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316199.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316199.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11569,7 +11569,7 @@
   },
   {
     "name": "Trece",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316214.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316214.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11577,7 +11577,7 @@
   },
   {
     "name": "Neox FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316193.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316193.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11585,7 +11585,7 @@
   },
   {
     "name": "Energy FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316197.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316197.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11593,7 +11593,7 @@
   },
   {
     "name": "Teledeporte FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316216.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316216.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11601,7 +11601,7 @@
   },
   {
     "name": "Teledeporte",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316217.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316217.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11609,7 +11609,7 @@
   },
   {
     "name": "MEGA",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/317178.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/317178.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11617,7 +11617,7 @@
   },
   {
     "name": "Mega",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315694.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315694.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11625,7 +11625,7 @@
   },
   {
     "name": "Dkiss FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315707.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315707.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11633,7 +11633,7 @@
   },
   {
     "name": "CLAN HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110284.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110284.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11641,7 +11641,7 @@
   },
   {
     "name": "***TVE¹** lNTERNACI0NAL",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/361099.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/361099.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11649,7 +11649,7 @@
   },
   {
     "name": "ES:|*TVE¹ Internacional op ²",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/317163.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/317163.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11657,7 +11657,7 @@
   },
   {
     "name": "24H",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110076.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110076.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11665,7 +11665,7 @@
   },
   {
     "name": "24H FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316183.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316183.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11673,7 +11673,7 @@
   },
   {
     "name": "24h",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/317164.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/317164.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11681,7 +11681,7 @@
   },
   {
     "name": "ES | 24H",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/206901.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/206901.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11689,7 +11689,7 @@
   },
   {
     "name": "STAR Channel FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316360.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316360.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11697,7 +11697,7 @@
   },
   {
     "name": "Star Channel FHD |opc-4|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316362.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316362.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11705,7 +11705,7 @@
   },
   {
     "name": "Warner TV FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316370.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316370.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11713,7 +11713,7 @@
   },
   {
     "name": "AXN FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316363.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316363.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11721,7 +11721,7 @@
   },
   {
     "name": "AXN FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316364.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316364.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11729,7 +11729,7 @@
   },
   {
     "name": "Calle 13 FHD |opc-3|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316374.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316374.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11737,7 +11737,7 @@
   },
   {
     "name": "Syfy FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316376.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316376.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11745,7 +11745,7 @@
   },
   {
     "name": "Comedy Central FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316380.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316380.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11753,7 +11753,7 @@
   },
   {
     "name": "A3 Series FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316357.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316357.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11761,7 +11761,7 @@
   },
   {
     "name": "A3 Series",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316358.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316358.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11769,7 +11769,7 @@
   },
   {
     "name": "Cosmo FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316385.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316385.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11777,7 +11777,7 @@
   },
   {
     "name": "Warner TV FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316369.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316369.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11785,7 +11785,7 @@
   },
   {
     "name": "Cosmo FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316384.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316384.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11793,7 +11793,7 @@
   },
   {
     "name": "M+Estrenos FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316288.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316288.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11801,7 +11801,7 @@
   },
   {
     "name": "M+Hits FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316292.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316292.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11809,7 +11809,7 @@
   },
   {
     "name": "M+Originales FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316296.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316296.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11817,7 +11817,7 @@
   },
   {
     "name": "M+Vacaciones FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316300.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316300.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11825,7 +11825,7 @@
   },
   {
     "name": "M+Clasicos FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316306.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316306.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11833,7 +11833,7 @@
   },
   {
     "name": "M+Acción FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316309.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316309.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11841,7 +11841,7 @@
   },
   {
     "name": "M+Comedia FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316313.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316313.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11849,7 +11849,7 @@
   },
   {
     "name": "M+Comedia FHD |opc-3|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316315.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316315.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11857,7 +11857,7 @@
   },
   {
     "name": "M+Drama FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316317.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316317.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11865,7 +11865,7 @@
   },
   {
     "name": "M+Drama FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316318.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316318.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11873,7 +11873,7 @@
   },
   {
     "name": "M+Indie FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316321.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316321.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11881,7 +11881,7 @@
   },
   {
     "name": "TCM FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316329.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316329.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11889,7 +11889,7 @@
   },
   {
     "name": "Dark FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316332.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316332.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11897,7 +11897,7 @@
   },
   {
     "name": "Squirrel 2",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316334.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316334.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11905,7 +11905,7 @@
   },
   {
     "name": "Veo7",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316337.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316337.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11913,7 +11913,7 @@
   },
   {
     "name": "AMC FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316338.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316338.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11921,7 +11921,7 @@
   },
   {
     "name": "Hollywood FHD |opc-3|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316344.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316344.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11929,7 +11929,7 @@
   },
   {
     "name": "Xtrm FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316346.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316346.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11937,7 +11937,7 @@
   },
   {
     "name": "Sundance FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316349.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316349.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11945,7 +11945,7 @@
   },
   {
     "name": "Somos FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316352.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316352.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11953,7 +11953,7 @@
   },
   {
     "name": "Somos FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316353.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316353.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11961,7 +11961,7 @@
   },
   {
     "name": "M+Comedia FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316314.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316314.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11969,7 +11969,7 @@
   },
   {
     "name": "M+Cine Español FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316325.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316325.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11977,7 +11977,7 @@
   },
   {
     "name": "***M+Acción FHD |opc-3|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316311.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316311.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11985,7 +11985,7 @@
   },
   {
     "name": "****M+Estrenos FHD |opc-3|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316290.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316290.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -11993,7 +11993,7 @@
   },
   {
     "name": "BBC FOOD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316441.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316441.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12001,7 +12001,7 @@
   },
   {
     "name": "BBC DRAMA",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316442.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316442.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12009,7 +12009,7 @@
   },
   {
     "name": "BBC TOP GEAR",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316443.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316443.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12017,7 +12017,7 @@
   },
   {
     "name": "BBC HISTORY",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316444.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316444.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12025,7 +12025,7 @@
   },
   {
     "name": "VinTv",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316445.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316445.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12033,7 +12033,7 @@
   },
   {
     "name": "HBO Max Avances",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316446.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316446.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12041,7 +12041,7 @@
   },
   {
     "name": "Historia Y Vida",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316447.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316447.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12049,7 +12049,7 @@
   },
   {
     "name": "AMC SELEKT",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316448.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316448.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12057,7 +12057,7 @@
   },
   {
     "name": "AMC Break FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316449.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316449.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12065,7 +12065,7 @@
   },
   {
     "name": "AMC BuenViaje! FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316452.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316452.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12073,7 +12073,7 @@
   },
   {
     "name": "Amc Crimen FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316455.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316455.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12081,7 +12081,7 @@
   },
   {
     "name": "Love wine",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316466.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316466.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12089,7 +12089,7 @@
   },
   {
     "name": "Discovery FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316467.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316467.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12097,7 +12097,7 @@
   },
   {
     "name": "Documentales FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316471.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316471.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12105,7 +12105,7 @@
   },
   {
     "name": "Historia FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316475.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316475.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12113,7 +12113,7 @@
   },
   {
     "name": "Nat Geo Wild FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316479.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316479.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12121,7 +12121,7 @@
   },
   {
     "name": "Nat Geographic FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316483.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316483.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12129,7 +12129,7 @@
   },
   {
     "name": "Odisea FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316487.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316487.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12137,7 +12137,7 @@
   },
   {
     "name": "Odisea FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316488.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316488.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12145,7 +12145,7 @@
   },
   {
     "name": "Canal deCasa FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316462.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316462.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12153,7 +12153,7 @@
   },
   {
     "name": "Canal Cocina FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316458.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316458.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12161,7 +12161,7 @@
   },
   {
     "name": "CANAL DECASA HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110245.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110245.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12169,7 +12169,7 @@
   },
   {
     "name": "CANAL COCINA FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110243.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110243.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12177,7 +12177,7 @@
   },
   {
     "name": "CAZA Y PESCA FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110274.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110274.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12185,7 +12185,7 @@
   },
   {
     "name": "NATIONAL GEOGRAFIC WILD HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110255.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110255.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12193,7 +12193,7 @@
   },
   {
     "name": "CAZA Y PESCA",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110272.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110272.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12201,7 +12201,7 @@
   },
   {
     "name": "CAZA Y PESCA HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110273.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110273.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12209,7 +12209,7 @@
   },
   {
     "name": "CRIMEN & INVESTIGACION FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110266.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110266.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12217,7 +12217,7 @@
   },
   {
     "name": "CANAL DECASA FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110246.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110246.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12225,7 +12225,7 @@
   },
   {
     "name": "Iberalia FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316531.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316531.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12233,7 +12233,7 @@
   },
   {
     "name": "OneToro TV FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316540.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316540.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12241,7 +12241,7 @@
   },
   {
     "name": "Caza y Pesca FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316526.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316526.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12249,7 +12249,7 @@
   },
   {
     "name": "TOROS HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110270.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110270.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12257,7 +12257,7 @@
   },
   {
     "name": "TOROS TV FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110271.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110271.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12265,7 +12265,7 @@
   },
   {
     "name": "Mundotoros tv",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110269.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110269.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12273,7 +12273,7 @@
   },
   {
     "name": "CazaVision FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316528.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316528.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12281,7 +12281,7 @@
   },
   {
     "name": "Iberalia 100% Caza FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316535.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316535.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12289,7 +12289,7 @@
   },
   {
     "name": "El toro TV",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316215.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316215.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12297,7 +12297,7 @@
   },
   {
     "name": "M+Estrenos FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315718.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315718.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12305,7 +12305,7 @@
   },
   {
     "name": "M+Hits FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315722.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315722.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12313,7 +12313,7 @@
   },
   {
     "name": "M+Clasicos FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315727.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315727.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12321,7 +12321,7 @@
   },
   {
     "name": "M+Acción FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315729.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315729.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12329,7 +12329,7 @@
   },
   {
     "name": "M+Acción FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315730.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315730.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12337,7 +12337,7 @@
   },
   {
     "name": "M+Comedia FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315732.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315732.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12345,7 +12345,7 @@
   },
   {
     "name": "M+Comedia FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315733.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315733.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12353,7 +12353,7 @@
   },
   {
     "name": "M+Drama FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315736.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315736.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12361,7 +12361,7 @@
   },
   {
     "name": "M+Drama FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315737.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315737.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12369,7 +12369,7 @@
   },
   {
     "name": "M+Indie FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315740.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315740.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12377,7 +12377,7 @@
   },
   {
     "name": "M+Cine Español FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315745.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315745.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12385,7 +12385,7 @@
   },
   {
     "name": "M+ Skyshowtime |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315748.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315748.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12393,7 +12393,7 @@
   },
   {
     "name": "En Familia |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315755.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315755.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12401,7 +12401,7 @@
   },
   {
     "name": "A3 Series FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315757.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315757.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12409,7 +12409,7 @@
   },
   {
     "name": "A3 Series HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315758.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315758.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12417,7 +12417,7 @@
   },
   {
     "name": "AMC FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315759.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315759.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12425,7 +12425,7 @@
   },
   {
     "name": "AMC FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315760.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315760.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12433,7 +12433,7 @@
   },
   {
     "name": "AXN FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315762.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315762.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12441,7 +12441,7 @@
   },
   {
     "name": "AXN FHD |opc-3|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315764.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315764.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12449,7 +12449,7 @@
   },
   {
     "name": "AXN Movies FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315765.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315765.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12457,7 +12457,7 @@
   },
   {
     "name": "Calle 13 FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315767.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315767.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12465,7 +12465,7 @@
   },
   {
     "name": "Calle 13 FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315768.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315768.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12473,7 +12473,7 @@
   },
   {
     "name": "Dark FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315771.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315771.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12481,7 +12481,7 @@
   },
   {
     "name": "Hollywood FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315773.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315773.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12489,7 +12489,7 @@
   },
   {
     "name": "STAR Channel FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315776.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315776.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12497,7 +12497,7 @@
   },
   {
     "name": "STAR Channel FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315777.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315777.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12505,7 +12505,7 @@
   },
   {
     "name": "Star Channel HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315779.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315779.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12513,7 +12513,7 @@
   },
   {
     "name": "Warner TV FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315780.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315780.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12521,7 +12521,7 @@
   },
   {
     "name": "Warner TV FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315781.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315781.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12529,7 +12529,7 @@
   },
   {
     "name": "Syfy FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315784.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315784.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12537,7 +12537,7 @@
   },
   {
     "name": "TCM FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315792.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315792.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12545,7 +12545,7 @@
   },
   {
     "name": "Somos FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315795.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315795.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12553,7 +12553,7 @@
   },
   {
     "name": "Somos FHD |opc-2|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315796.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315796.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12561,7 +12561,7 @@
   },
   {
     "name": "Sundance FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315797.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315797.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12569,7 +12569,7 @@
   },
   {
     "name": "M+E: Demi Moore",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315714.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315714.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12577,7 +12577,7 @@
   },
   {
     "name": "M+LOS GOYA FHD |opc-1|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315715.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315715.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12590,7 +12590,7 @@
     "samples": [
   {
     "name": "LA  LlGA_TV SD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406839.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406839.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12598,7 +12598,7 @@
   },
   {
     "name": "LA  LlGA_TV TV FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406871.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406871.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12606,7 +12606,7 @@
   },
   {
     "name": "LA  LlGA_TV FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406872.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406872.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12614,7 +12614,7 @@
   },
   {
     "name": "LA  LlGA_TV FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406873.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406873.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12622,7 +12622,7 @@
   },
   {
     "name": "LA  LlGA_TV HD |Orange|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406841.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406841.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12630,7 +12630,7 @@
   },
   {
     "name": "LA  LlGA_TV FHD |Orange|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406874.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406874.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12638,7 +12638,7 @@
   },
   {
     "name": "LA  LlGA_TV FHD Multi_Audio 2",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406838.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406838.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12646,7 +12646,7 @@
   },
   {
     "name": "LA  LlGA_TV 2 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406877.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406877.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12654,7 +12654,7 @@
   },
   {
     "name": "LA LlGA_TV 2 HDR |Orange|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406832.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406832.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12662,7 +12662,7 @@
   },
   {
     "name": "LA  LlGA_TV 2 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406865.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406865.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12670,7 +12670,7 @@
   },
   {
     "name": "LA  LlGA_TV 2 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406866.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406866.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12678,7 +12678,7 @@
   },
   {
     "name": "LA  LlGA_TV 2 FHD |Orange|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406867.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406867.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12686,7 +12686,7 @@
   },
   {
     "name": "LA  LlGA_TV 2 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406868.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406868.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12694,7 +12694,7 @@
   },
   {
     "name": "LA  LlGA_TV 2 Multi_audio",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406833.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406833.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12702,7 +12702,7 @@
   },
   {
     "name": "LA  LlGA_TV 2 FHD MultiAudio",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406869.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406869.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12710,7 +12710,7 @@
   },
   {
     "name": "LA  LlGA_TV 3 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406860.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406860.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12718,7 +12718,7 @@
   },
   {
     "name": "LA  LlGA_TV 3 FHD (Solo Eventos)",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406861.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406861.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12726,7 +12726,7 @@
   },
   {
     "name": "LA  LlGA_TV 3 FHD |Orange|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406862.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406862.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12734,7 +12734,7 @@
   },
   {
     "name": "LA  LlGA_TV 3 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406863.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406863.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12742,7 +12742,7 @@
   },
   {
     "name": "LA  LlGA_TV 3 FHD Multi_Audio(Solo Eventos)",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406864.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406864.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12750,7 +12750,7 @@
   },
   {
     "name": "LA  LlGA_TV 4 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406856.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406856.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12758,7 +12758,7 @@
   },
   {
     "name": "LA  LlGA_TV 4 FHD (Solo_Eventos)",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406857.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406857.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12766,7 +12766,7 @@
   },
   {
     "name": "LA  LlGA_TV 4 FHD (Solo_Eventos)",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406858.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406858.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12774,7 +12774,7 @@
   },
   {
     "name": "LA  LlGA_TV 4 FHD |Orange|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406859.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406859.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12782,7 +12782,7 @@
   },
   {
     "name": "DAZN_LlGA",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406691.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406691.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12790,7 +12790,7 @@
   },
   {
     "name": "DAZN_LlGA",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406692.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406692.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12798,7 +12798,7 @@
   },
   {
     "name": "DAZN_LlGA",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406693.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406693.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12806,7 +12806,7 @@
   },
   {
     "name": "DAZN_LlGA",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406694.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406694.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12814,7 +12814,7 @@
   },
   {
     "name": "DAZN_LlGA 2",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406695.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406695.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12822,7 +12822,7 @@
   },
   {
     "name": "DAZN_LlGA 2",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406696.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406696.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12830,7 +12830,7 @@
   },
   {
     "name": "DAZN_LlGA 2",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406697.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406697.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12838,7 +12838,7 @@
   },
   {
     "name": "DAZN_LlGA 3",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406698.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406698.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12846,7 +12846,7 @@
   },
   {
     "name": "DAZN_LlGA 4",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406699.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406699.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12854,7 +12854,7 @@
   },
   {
     "name": "DAZN_LlGA 5",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406700.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406700.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12862,7 +12862,7 @@
   },
   {
     "name": "M+ Copa del Rey Multiaudio",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315524.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315524.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12870,7 +12870,7 @@
   },
   {
     "name": "M+ Copa del Rey",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315520.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315520.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12878,7 +12878,7 @@
   },
   {
     "name": "M+ Copa del Rey",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315521.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315521.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12886,7 +12886,7 @@
   },
   {
     "name": "M+ Copa del Rey",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315522.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315522.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12894,7 +12894,7 @@
   },
   {
     "name": "M Copa del Rey  |Orange|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/315523.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/315523.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12902,7 +12902,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376384.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376384.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12910,7 +12910,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376383.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376383.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12918,7 +12918,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/305949.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/305949.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12926,7 +12926,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/305950.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/305950.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12934,7 +12934,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/305952.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/305952.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12942,7 +12942,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/305956.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/305956.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12950,7 +12950,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376370.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376370.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12958,7 +12958,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES 2 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/305953.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/305953.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12966,7 +12966,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES 2",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/305954.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/305954.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12974,7 +12974,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES 2",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376371.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376371.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12982,7 +12982,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES 2",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376374.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376374.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12990,7 +12990,7 @@
   },
   {
     "name": "E$:| LlGA DE CAMPEONES 3",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376375.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376375.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -12998,7 +12998,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES 3",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/305955.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/305955.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13006,7 +13006,7 @@
   },
   {
     "name": "E$: LlGA DE CAMPEONES 4",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376376.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376376.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13014,7 +13014,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES 5",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376377.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376377.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13022,7 +13022,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES 6",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376378.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376378.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13030,7 +13030,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES 7",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376379.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376379.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13038,7 +13038,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES 8",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376380.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376380.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13046,7 +13046,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES 9",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376381.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376381.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13054,7 +13054,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES 12",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376372.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376372.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13062,7 +13062,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES 12",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376385.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376385.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13070,7 +13070,7 @@
   },
   {
     "name": "LIGA DE CAMPEONES 13",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/376373.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/376373.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13078,7 +13078,7 @@
   },
   {
     "name": "M+ PLUS FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/438249.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/438249.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13086,7 +13086,7 @@
   },
   {
     "name": "M+ PLUS HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/438246.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/438246.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13094,7 +13094,7 @@
   },
   {
     "name": "M. Deportes SD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431834.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431834.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13102,7 +13102,7 @@
   },
   {
     "name": "M. Deportes HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431833.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431833.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13110,7 +13110,7 @@
   },
   {
     "name": "M. Deportes FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431832.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431832.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13118,7 +13118,7 @@
   },
   {
     "name": "M. Deportes 2 HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/438240.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/438240.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13126,7 +13126,7 @@
   },
   {
     "name": "M. Deportes 2 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/438243.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/438243.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13134,7 +13134,7 @@
   },
   {
     "name": "#Vamos SD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431830.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431830.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13142,7 +13142,7 @@
   },
   {
     "name": "#Vamos HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431829.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431829.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13150,7 +13150,7 @@
   },
   {
     "name": "#Vamos FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431828.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431828.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13158,7 +13158,7 @@
   },
   {
     "name": "Ellas #V FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431840.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431840.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13166,7 +13166,7 @@
   },
   {
     "name": "Ellas #V HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431841.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431841.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13174,7 +13174,7 @@
   },
   {
     "name": "Ellas #V SD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431842.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431842.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13182,7 +13182,7 @@
   },
   {
     "name": "M. Golf SD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431848.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431848.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13190,7 +13190,7 @@
   },
   {
     "name": "M. Golf HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431847.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431847.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13198,7 +13198,7 @@
   },
   {
     "name": "M. Golf FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431846.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431846.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13206,7 +13206,7 @@
   },
   {
     "name": "M. Golf 2 SD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431845.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431845.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13214,7 +13214,7 @@
   },
   {
     "name": "M. Golf 2 HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431844.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431844.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13222,7 +13222,7 @@
   },
   {
     "name": "M. Golf 2 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431843.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431843.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13230,7 +13230,7 @@
   },
   {
     "name": "EUR0$P0RTS  1",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/360721.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/360721.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13238,7 +13238,7 @@
   },
   {
     "name": "EUR0$P0RTS  2",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/244027.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/244027.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13246,7 +13246,7 @@
   },
   {
     "name": "Teledeporte SD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431831.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431831.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13254,7 +13254,7 @@
   },
   {
     "name": "TeleDeporte",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/317174.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/317174.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13262,7 +13262,7 @@
   },
   {
     "name": "GOL Play FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431838.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431838.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13270,7 +13270,7 @@
   },
   {
     "name": "Real Madrid TV SD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431836.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431836.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13278,7 +13278,7 @@
   },
   {
     "name": "Real Madrid TV HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/431835.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/431835.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13286,7 +13286,7 @@
   },
   {
     "name": "DAZN F1 4K",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/125366.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/125366.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13294,7 +13294,7 @@
   },
   {
     "name": "DAZN F1",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/125364.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/125364.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13302,7 +13302,7 @@
   },
   {
     "name": "DAZN F1 HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/144057.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/144057.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13310,7 +13310,7 @@
   },
   {
     "name": "DAZN  F1",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/125363.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/125363.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13318,7 +13318,7 @@
   },
   {
     "name": "DAZN F1 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/125365.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/125365.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13326,7 +13326,7 @@
   },
   {
     "name": "DAZN F1 HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110220.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110220.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13334,7 +13334,7 @@
   },
   {
     "name": "DAZN F1 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110221.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110221.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13342,7 +13342,7 @@
   },
   {
     "name": "DAZN F1",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/124765.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/124765.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13350,7 +13350,7 @@
   },
   {
     "name": "DAZN F1 FHD Multiaudio",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316389.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316389.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13358,7 +13358,7 @@
   },
   {
     "name": "DAZN F1 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316390.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316390.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13366,7 +13366,7 @@
   },
   {
     "name": "DAZN F1 FHD |Orange|",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316391.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316391.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13374,7 +13374,7 @@
   },
   {
     "name": "DAZN F1 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316392.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316392.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13382,7 +13382,7 @@
   },
   {
     "name": "DAZN F1 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316393.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316393.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13390,7 +13390,7 @@
   },
   {
     "name": "DAZN F1 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316394.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316394.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13398,7 +13398,7 @@
   },
   {
     "name": "DAZN F1 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316395.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316395.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13406,7 +13406,7 @@
   },
   {
     "name": "DAZN F1 HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/124763.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/124763.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13414,7 +13414,7 @@
   },
   {
     "name": "DAZN  1 FHD.",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110224.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110224.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13422,7 +13422,7 @@
   },
   {
     "name": "DAZN 1 HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110225.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110225.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13430,7 +13430,7 @@
   },
   {
     "name": "DAZN 1 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/124764.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/124764.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13438,7 +13438,7 @@
   },
   {
     "name": "DAZN 1 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316424.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316424.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13446,7 +13446,7 @@
   },
   {
     "name": "DAZN 1 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316425.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316425.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13454,7 +13454,7 @@
   },
   {
     "name": "DAZN 1 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316426.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316426.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13462,7 +13462,7 @@
   },
   {
     "name": "DAZN 1 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316427.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316427.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13470,7 +13470,7 @@
   },
   {
     "name": "DAZN 1 HD SAT",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316428.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316428.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13478,7 +13478,7 @@
   },
   {
     "name": "DAZN  2 FHD.",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110228.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110228.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13486,7 +13486,7 @@
   },
   {
     "name": "DAZN  2 HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110226.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110226.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13494,7 +13494,7 @@
   },
   {
     "name": "DAZN 2",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110232.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110232.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13502,7 +13502,7 @@
   },
   {
     "name": "DAZN 2 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316429.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316429.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13510,7 +13510,7 @@
   },
   {
     "name": "DAZN 2 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316430.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316430.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13518,7 +13518,7 @@
   },
   {
     "name": "DAZN 2 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316431.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316431.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13526,7 +13526,7 @@
   },
   {
     "name": "DAZN 2 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316432.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316432.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13534,7 +13534,7 @@
   },
   {
     "name": "DAZN 3 HD.",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110229.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110229.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13542,7 +13542,7 @@
   },
   {
     "name": "DAZN 3",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/124768.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/124768.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13550,7 +13550,7 @@
   },
   {
     "name": "DAZN 3 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316433.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316433.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13558,7 +13558,7 @@
   },
   {
     "name": "DAZN 3 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316434.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316434.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13566,7 +13566,7 @@
   },
   {
     "name": "DAZN 3 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316435.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316435.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13574,7 +13574,7 @@
   },
   {
     "name": "DAZN 3 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316436.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316436.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13582,7 +13582,7 @@
   },
   {
     "name": "DAZN 4 HD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/110231.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/110231.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13590,7 +13590,7 @@
   },
   {
     "name": "DAZN 4 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/124767.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/124767.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13598,7 +13598,7 @@
   },
   {
     "name": "DAZN 4 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316437.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316437.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13606,7 +13606,7 @@
   },
   {
     "name": "DAZN 4 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316438.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316438.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13614,7 +13614,7 @@
   },
   {
     "name": "DAZN 4 FHD",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/316439.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/316439.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13622,7 +13622,7 @@
   },
   {
     "name": "LlGA ENDESA 1",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406879.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406879.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13630,7 +13630,7 @@
   },
   {
     "name": "LlGA ENDESA 2",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406880.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406880.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13638,7 +13638,7 @@
   },
   {
     "name": "LlGA ENDESA 3",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406881.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406881.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13646,7 +13646,7 @@
   },
   {
     "name": "LlGA ENDESA 4",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406882.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406882.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -13654,7 +13654,7 @@
   },
   {
     "name": "LlGA ENDESA 5",
-    "uri": "http://mundo2.pro/live/Clienteehhdhd/73773hdhdh2/406883.ts",
+    "uri": "http://mundo2.pro:80/live/codechecker/723737mdbr/406883.ts",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
