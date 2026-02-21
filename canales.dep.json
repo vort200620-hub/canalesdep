@@ -24847,9 +24847,8 @@
 
 {
         "name": "Sky Sports Laliga",
-        "uri": "https://live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd",     
-        "kid": "yI3GxmjKw7Ro1KTH4Xb/PQ",
-        "key": "GutzneLBTtCtZYyoBDII2A",
+        "uri": "https://live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd",    
+        "drm_license_url": "https://paste.anasor.com/paste.php?raw&id=351708", 
         "drm_scheme": "clearkey",
         "extension": ""
        },
