@@ -7877,10 +7877,6 @@
 },
 {
     "name": "DAZN LaLiga (Warp)",
-    "uri": "https://104.194.9.227/laliga2/tracks-v1a1/mono.m3u8?token=e089e89ee1d07a0f6ea3ce7be71aabf6d9687059-607c8d6b3c135a0f6a65ca65a293a120-1772862800-1772852000"
-  },
-{
-    "name": "DAZN LaLiga (Warp)",
     "uri": "http://167.17.67.240:8888/DAZN4/tracks-v1a1/mono.m3u8"
   },
 {
@@ -7895,11 +7891,7 @@
     "name": "DAZN F1 (Warp)",
     "uri": "https://tv1.strm2234.xyz/funo/tracks-v1a1/mono.m3u8?token=ba3f459fed09a9f3b03241802ab0a7f230822d45-60499350185a8c66b42ab616484056c7-1772862864-1772852064"
  },
- {
-    "name": "DAZN F1 (Warp)",
-    "uri": "https://104.194.9.227/funo/tracks-v1a1/mono.m3u8?token=ba3f459fed09a9f3b03241802ab0a7f230822d45-60499350185a8c66b42ab616484056c7-1772862864-1772852064"
- }, 
-   {
+{
     "name": "DAZN F1 (Warp)",
     "uri": "http://167.17.67.240:8888/DAZNFL/tracks-v1a1/mono.m3u8"
  },
@@ -7931,11 +7923,7 @@
     "name": "M+ LaLiga (Warp)",
     "uri": "https://tv1.strm2234.xyz/laliga1/tracks-v1a1/mono.m3u8?token=da7acf13da6cf81ca5c3caf932f861acccba2c47-bba4d3a7dc66edd6a8b8fc1a0706da75-1772862747-1772851947"
   },
-   {
-    "name": "M+ LaLiga (Warp)",
-    "uri": "https://104.194.9.227/laliga1/tracks-v1a1/mono.m3u8?token=da7acf13da6cf81ca5c3caf932f861acccba2c47-bba4d3a7dc66edd6a8b8fc1a0706da75-1772862747-1772851947"
-  }, 
-   {
+  {
     "name": "M+ LaLiga (Warp)",
     "uri": "http://167.17.67.240:8888/ligacampeones/tracks-v1a1/mono.m3u8"
    } 
