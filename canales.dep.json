@@ -7523,6 +7523,14 @@
     "drm_scheme": "clearkey",
     "extension": "mpd"
   },
+   {
+    "name": "M+ LaLiga HDR",
+    "uri": "http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifest%2e%6d%70%64",
+    "kid": "OdcSJV/lT0G2uVh9RePFqA,PoHn4HTETxSFKplpaDePTQ",
+    "key": "NHH3B6rVF+KqcY3QTkFuBw,5iYGYwKcYsl/pvQ/FiDcUA",
+    "drm_scheme": "clearkey",
+    "extension": "mpd"
+  },
   {
     "name": "M+ LaLiga 2",
     "uri": "http://2liga-dash-movistarplus.emisiondof6.com/manifest%2e%6d%70%64",
